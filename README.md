@@ -2,9 +2,9 @@
 I will upload the kKg Myanmar Keyboard Layout that I designed for lazy users (actually, I was the 1st user :).
 Please wait.
 
-** Still preparing readme file, after that I will upload kKg keyboard layout file **
+* Still preparing readme file, after that I will upload kKg keyboard layout file *  
 
-#kKg ကီးဘုတ် မိတ်ဆက်
+#kKg ကီးဘုတ် မိတ်ဆက်  
 
 ကျွန်တော်က မြန်မာစာလုံးတွေကို အရမ်းချစ်ပါတယ်၊ သို့သော် မြန်မာစာကို ရိုက်ဖို့အတွက် ရှိနေတဲ့ ကီးဘုတ်လက်ကွက်တွေနဲ့ လေ့ကျင့်ဖို့ကို အရမ်းကို အပျင်းကျခဲ့ပါတယ်။
 ၂၀၀၄ ခုနှစ်လောက်ကပါ။ ကျွန်တော် ဂျပန်၊ တိုကျိုမှာရှိတဲ့ Waseda တက္ကသိုလ်မှာ မာစတာတန်းတက်နေစဉ်၊  မြန်မာစာနဲ့ ပတ်သက်တဲ့ သုတေသနတွေကို စလုပ်ဖြစ်တော့
