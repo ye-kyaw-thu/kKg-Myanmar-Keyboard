@@ -85,6 +85,10 @@ kKg ကီးဘုတ်ရဲ့ ကီးနေရာချထားပုံ
 * ပါဌ်ဆင့် က္က (ကကြီး နှစ်လုံးဆင့်) ကို ရိုက်မယ်ဆိုရင် က + ္ + က (kFk) အစီအစဉ်အတိုင်း ရိုက်ရပါမယ်။
 
 
-# Installation
+# Installationလုပ်ပုံလုပ်နည်း
 
-# Some information for hacking XKB  
+# ပထမဆုံး kKg ကီးဘုတ်ကို သုံးတဲ့အခါ
+
+# FYI for Hacking XKB
+
+
