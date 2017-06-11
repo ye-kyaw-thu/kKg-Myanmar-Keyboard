@@ -149,8 +149,8 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
   C လို၊ C++ ပရိုဂရမ်းမင်း ဘာသာစကားအတွက် မာကရိုတွေ (\_\_CHAR_UNSIGNED\_\_, \_\_SIZEOF_LONG\_\_, \_\_INCLUDE_LEVE\_\_) အများကြီးရိုက်နေတဲ့ သူတွေအတွက်တော့ အသုံးဝင်ချင် ဝင်ပါလိမ့်မယ် :) ။ အနှောက်အယှက်ဖြစ်နေလို့  CapsLock ကီးကို Shift ကီးလိုပဲ အလုပ်လုပ်ခိုင်းလို့ရပါတယ်။ အောက်ပါ xmodmap command နဲ့စမ်းကြည့်ပါ။  
   $ xmodmap -e "keycode 66 = ISO_Level3_Shift"
   
-  CapsLock ကီးကို Escape ကီးအဖြစ်လဲ ပြောင်းလို့ရပါတယ်။  
-  $ xmodmap -e "keycode 66 = Escape"  
+  * CapsLock ကီးကို Escape ကီးအဖြစ်လဲ ပြောင်းလို့ရပါတယ်။  
+   $ xmodmap -e "keycode 66 = Escape"  
   
   
   
