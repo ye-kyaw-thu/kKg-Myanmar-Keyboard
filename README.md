@@ -91,13 +91,4 @@ kKg ကီးဘုတ်ရဲ့ ကီးနေရာချထားပုံ
 
 # FYI for Hacking XKB
 
-hb@AI-lab-GPU1:/usr/share/X11/xkb$ tree -L 1
-.
-├── compat
-├── geometry
-├── keycodes
-├── rules
-├── symbols
-└── types
 
-6 directories, 0 files
