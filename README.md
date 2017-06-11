@@ -152,6 +152,9 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
   
   * CapsLock ကီးကို Escape ကီးအဖြစ်လဲ ပြောင်းလို့ရပါတယ်။  
    $ xmodmap -e "keycode 66 = Escape"  
+   
+  * xmodemap နဲ့ပဲ 
+  ![]()
   
   * ကီးဘုတ်လက်ကွက်ပုံစံ (/usr/share/X11/xkb/geometry/) တွေကို pdf ဖိုင်အနေနဲ့ print လုပ်ခိုင်းလို့ရပါတယ်။  
   $ xkbcomp /usr/share/X11/xkb/geometry/pc - | xkbprint -color -o - - | ps2pdf - > ~/experiment/kkg/4github/pc-symbols.pdf  
