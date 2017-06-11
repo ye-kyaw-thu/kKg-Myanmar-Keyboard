@@ -100,7 +100,11 @@ kKg ကီးဘုတ်လက်ကွက်က Linux OS တွေပေါ်
 
 # ပထမဆုံး kKg ကီးဘုတ်ကို သုံးတဲ့အခါ
 
-# FYI for Hacking XKB
+# FYI for Hacking XKB  
+
+XKB (X Keyboard Extension) က X Window System (Linux OS  ရဲ့ GUI) ရဲ့ အစိတ်အပိုင်းတခုဖြစ်ပြီး၊ ကီးဘုတ်နဲ့ သက်ဆိုင်တဲ့ ဆက်သွယ်မှု၊ ထိန်းချုပ်မှု၊ configuration စသည့်ကိစ္စအားလုံးနဲ့ သက်ဆိုင်ပါသည်။
+
+In human-computer interfaces, the X keyboard extension or XKB is a part of the X Window System that extends the ability to control the keyboard over what is offered by the X Window System core protocol. The main features of this extension are:
 
 # To Do
 
