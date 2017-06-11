@@ -100,6 +100,7 @@ kKg ကီးဘုတ်လက်ကွက်က Linux OS တွေပေါ်
  5. 
 
 # ပထမဆုံး kKg ကီးဘုတ်ကို သုံးတဲ့အခါ
+* လေ့ကျင်ပုံလေ့ကျင်နည်းနဲ့ ပတ်သက်ပြီး ငါသိထားတာကို ပြောပြရန်  
 
 # FYI for Hacking XKB  
 
@@ -169,6 +170,8 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
  
   
 # To Do
+* Preparing for Windows OS
+* Making user-study in details (although I am busy... but I wish to do when I get a chance)
 
 # References
 
