@@ -124,7 +124,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
   
   ![setxkbmap-kkg-verbose-command](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/setxkbmap-kkg-verbose-command.png)
 
-* setxkbmap ရဲ့ command option တွေကို ပိုသိချင်ရင်၊ အောက်ပါ command ကိုရိုက်ပြီး User manual ကိုဖတ်ကြည့်ပါ။
+* setxkbmap ရဲ့ command option တွေကို ပိုသိချင်ရင်၊ အောက်ပါ command ကိုရိုက်ပြီး User manual ကိုဖတ်ကြည့်ပါ။  
   $ man setxkbmap
   
   
