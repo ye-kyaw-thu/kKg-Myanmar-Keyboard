@@ -2,7 +2,7 @@
 I will upload the kKg Myanmar Keyboard Layout that I designed for lazy users (actually, I was the 1st user :).
 Please wait.
 
-**Still preparing readme file, after that I will upload kKg keyboard layout file**
+**Still preparing readme file ... How to Install and Hacking XKB ... Please Wait! **
 
 # kKg ကီးဘုတ် မိတ်ဆက်  
 
