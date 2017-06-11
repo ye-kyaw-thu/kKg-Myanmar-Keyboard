@@ -155,6 +155,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
    
   * xmodemap command ကိုသုံးပြီး၊ Alter ကီးနဲ့ပတ်သတ်ပြီးတာကိုပဲ ကြည့်ချင်တယ်ဆိုရင်  
    $ xmodmap -pk | grep -i alt  
+   
   ![xmodemap-4-alt-key-screen-output](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xmodemap-4-alt-key.png)
   
   * ကီးဘုတ်လက်ကွက်ပုံစံ (/usr/share/X11/xkb/geometry/) တွေကို pdf ဖိုင်အနေနဲ့ print လုပ်ခိုင်းလို့ရပါတယ်။  
