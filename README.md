@@ -173,6 +173,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
  
   
 # To Do
+* Prepare brief (mainly explanation on kKg keyboard mapping) README file in English version.
 * Preparing kKg keyboard for Windows OS
 * Making user-study in details (although I am busy... I wish to do when I get a chance)
 
