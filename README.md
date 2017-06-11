@@ -85,10 +85,19 @@ kKg ကီးဘုတ်ရဲ့ ကီးနေရာချထားပုံ
 * ပါဌ်ဆင့် က္က (ကကြီး နှစ်လုံးဆင့်) ကို ရိုက်မယ်ဆိုရင် က + ္ + က (kFk) အစီအစဉ်အတိုင်း ရိုက်ရပါမယ်။
 
 
-# Installationလုပ်ပုံလုပ်နည်း
+# Installation လုပ်ပုံလုပ်နည်း
 
 # ပထမဆုံး kKg ကီးဘုတ်ကို သုံးတဲ့အခါ
 
 # FYI for Hacking XKB
 
+hb@AI-lab-GPU1:/usr/share/X11/xkb$ tree -L 1
+.
+├── compat
+├── geometry
+├── keycodes
+├── rules
+├── symbols
+└── types
 
+6 directories, 0 files
