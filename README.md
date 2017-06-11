@@ -108,7 +108,16 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 
 ![xkb-path-info](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/path-info.png)
 
+အသုံးဝင်တဲ့ command examples တချို့ကတော့ အောက်ပါအတိုင်းဖြစ်ပါတယ်။
 
+* ကီးဘုတ်ကို us layout အဖြစ်ပြောင်းချင်တဲ့အခါ
+  $ setxkbmap -layout us
+  
+* DVORAK (Dr. Augustine Dvorak နဲ့ Dr. William Dealey တို့က ဒီဇိုင်းလုပ်ခဲ့တဲ့ keyboard layout) အဖြစ်ပြောင်းကြည့်မယ်ဆိုရင်
+  $ setxkbmap -layout us -variant dvorak
+
+* Ubuntu OS မှာ default အနေနဲ့ ပါတဲ့ မြန်မာစာကီးဘုတ်အနေနဲ့ ပြောင်းကြည့်မယ်ဆိုရင်
+  $ setxkbmap -layout mm
 
 
 
