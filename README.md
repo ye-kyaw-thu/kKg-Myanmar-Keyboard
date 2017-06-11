@@ -107,7 +107,9 @@ XKB (X Keyboard Extension) က X Window System (Linux OS  ရဲ့ GUI) ရဲ�
 
 Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ path အောက်မှာရှိတဲ့  compact/, geometry/, keycodes/, rules/, symbols/ နဲ့ types/ ဆိုတဲ့ folder လေးခုရဲ့ အောက်မှာရှိတဲ့ ဖိုင်တွေကို ဝင်ပြင်တာ၊ ဖိုင်အသစ်ဆောက်တာတွေလုပ်ပြီး ကီးဘုတ်နဲ့ ပတ်သက်တဲ့ setting တွေကို အမျိုးမျိုးစမ်းသပ်ကြည့်နိုင်ပါတယ်။
 
-![xkb-path-info](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/path-info.png)
+![xkb-path-info](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/path-info.png)  
+
+ XKB Homepage link:[https://www.x.org/wiki/XKB/](https://www.x.org/wiki/XKB/)
 
 အသုံးဝင်တဲ့ command examples တချို့ကတော့ အောက်ပါအတိုင်းဖြစ်ပါတယ်။
 
