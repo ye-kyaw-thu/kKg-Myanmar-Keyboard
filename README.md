@@ -138,6 +138,9 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
   $ xkbcomp -xkb $DISPLAY xkbmap-kkg  
   
    ([xkbmap-kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xkbmap-kkg) ဖိုင်ကိုလဲ တင်ပေးထားပါတယ်)
+   
+  * xset command ကို သုံးပြီး typematic delay အချိန်နဲ့ rate ကိုပြောင်းကြည့်လို့ရပါတယ်။ အတိုရှင်းပြရရင်၊ ကီးတခုကို ဆက်တိုက်ဖိထားတဲ့ အချိန်မှာ အဲဒီဖိထားတဲ့ကီးမှာ mapping လုပ်ထားတဲ့ စာလုံးကို ဘယ်လောက်နှုန်းမြန်မြန်နဲ့ စကရင်မှာ ရိုက်ထုပ်ပြမလဲဆိုတာကို ချိန်တာပါ။  
+  $ xset r rate 220 160
 
 # To Do
 
