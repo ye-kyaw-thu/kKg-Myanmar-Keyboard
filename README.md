@@ -56,14 +56,14 @@ kKg ကီးဘုတ်ရဲ့ ကီးနေရာချထားပုံ
 <p align="center">
  မြန်မာဗျည်း  
  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| က<br>k | ခ<br>K | ဂ<br>g | ဃ<br>G | င<br>c |
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| စ<br>**s** | ဆ<br>**S** |ဇ<br>**z**  |ဈ<br>**Z**  |ည<br>**q** |
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ဋ<br>**v** | ဌ<br>**X** |ဍ<br>**V**  |ဎ<br>**?**  |ဏ<br>**N** |
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| တ<br>**T** | ထ<br>**x** |ဒ<br>**d**  |ဓ<br>**D**  |န<br>**n** |
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ပ<br>**p** | ဖ<br>**P** |ဗ<br>**B**  |ဘ<br>**b**  |မ<br>**m** |
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ယ<br>**Y** | ရ<br>**y** | လ<br>**l** | ဝ<br>**w**  | သ<br>**t** |
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|| ဟ<br>**h** | ဠ<br>**L** |အ<br>**a** ||
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | က<br>k | ခ<br>K | ဂ<br>g | ဃ<br>G | င<br>c |
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | စ<br>**s** | ဆ<br>**S** |ဇ<br>**z**  |ဈ<br>**Z**  |ည<br>**q** |
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ဋ<br>**v** | ဌ<br>**X** |ဍ<br>**V**  |ဎ<br>**?**  |ဏ<br>**N** |
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | တ<br>**T** | ထ<br>**x** |ဒ<br>**d**  |ဓ<br>**D**  |န<br>**n** |
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ပ<br>**p** | ဖ<br>**P** |ဗ<br>**B**  |ဘ<br>**b**  |မ<br>**m** |
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ယ<br>**Y** | ရ<br>**y** | လ<br>**l** | ဝ<br>**w**  | သ<br>**t** |
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; || ဟ<br>**h** | ဠ<br>**L** |အ<br>**a** ||
 
 
 </p>
