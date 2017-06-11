@@ -127,6 +127,8 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 * setxkbmap ရဲ့ command option တွေကို ပိုသိချင်ရင်၊ အောက်ပါ command ကိုရိုက်ပြီး User manual ကိုဖတ်ကြည့်ပါ။  
   $ man setxkbmap
   
+*  xkeyboard-config ရဲ့ user manual ကို ဖတ်ကြည့်ပြီး setxkbmap command မှာသုံးတဲ့ model နာမည်တွေ (pc105, microsoft, macbook79, ...)၊ layout နာမည်တွေ (us, nl, fi, de(deadacute), de(dvorak), de(mac), de(mac_nodeadkeys), de(dsb_qwertz) ...) နဲ့ ပတ်သက်ပြီး အသေးစိတ်ဖတ်ကြည့်ချင်ရင် 
+ $ man xkeyboard-config
   
 
 # To Do
