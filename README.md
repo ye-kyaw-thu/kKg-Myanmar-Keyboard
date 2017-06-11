@@ -59,8 +59,8 @@ kKg ကီးဘုတ်ရဲ့ ကီးနေရာချထားပုံ
 | စ<br>s | ဆ<br>S |ဇ<br>z  |ဈ<br>Z  |ည<br>q |
 | ဋ<br>v | ဌ<br>X |ဍ<br>V  |ဎ<br>?  |ဏ<br>N |
 | တ<br>T | ထ<br>x |ဒ<br>d  |ဓ<br>D  |န<br>n |
-| စ<br>s | ဆ<br>S |ဇ<br>z  |ဈ<br>Z  |ည<br>q |
-| စ<br>s | ဆ<br>S |ဇ<br>z  |ဈ<br>Z  |ည<br>q |
+| ပ<br>p | ဖ<br>P |ဗ<br>B  |ဘ<br>b  |မ<br>m |
+| ယ<br>Y | ရ<br>y | လ<br>l | ဝ<br>w  | သ<br>t |
 || စ<br>s | ဆ<br>S |ည<br>q ||
 
 
