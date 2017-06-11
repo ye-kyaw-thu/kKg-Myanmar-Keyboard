@@ -137,7 +137,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
  * xkbcomp နဲ့ kkg ကီးဘုတ်ရဲ့ key mapping အသေးစိတ်ကို ဖိုင်အနေနဲ့ print လုပ်ကြည့်လို့ရပါတယ်။  
   $ xkbcomp -xkb $DISPLAY xkbmap-kkg  
   
-  ([xkbmap-kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xkbmap-kkg) ဖိုင်ကိုလဲ တင်ပေးထားပါတယ်)
+   ([xkbmap-kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xkbmap-kkg) ဖိုင်ကိုလဲ တင်ပေးထားပါတယ်)
 
 # To Do
 
