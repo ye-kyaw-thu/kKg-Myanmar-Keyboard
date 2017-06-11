@@ -119,6 +119,10 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 * Ubuntu OS မှာ default အနေနဲ့ ပါတဲ့ မြန်မာစာကီးဘုတ်အနေနဲ့ ပြောင်းကြည့်မယ်ဆိုရင်  
   $ setxkbmap -layout mm
 
+* တကယ်လို့ kKg ကီးဘုတ်ကို installation လုပ်ထားပြီးလို့ kKg ကီးဘုတ်အဖြစ် ပြောင်းကြည့်မယ်။ ပြီးတော့ verbose option ကိုလည်းထည့်မယ်ဆိုရင်  
+  $ setxkbmap -print -layout kkg -verbose
+  
+  
 
 
 # To Do
