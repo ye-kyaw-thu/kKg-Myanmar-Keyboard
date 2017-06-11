@@ -171,7 +171,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
   
 # To Do
 * Preparing kKg keyboard for Windows OS
-* Making user-study in details (although I am busy... but I wish to do when I get a chance)
+* Making user-study in details (although I am busy... I wish to do when I get a chance)
 
 # References
 
