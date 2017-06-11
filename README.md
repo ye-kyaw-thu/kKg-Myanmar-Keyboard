@@ -130,7 +130,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 *  xkeyboard-config ရဲ့ user manual ကို ဖတ်ကြည့်ပြီး setxkbmap command မှာသုံးတဲ့ model နာမည်တွေ (pc105, microsoft, macbook79, ...)၊ layout နာမည်တွေ (us, nl, fi, de(deadacute), de(dvorak), de(mac), de(mac_nodeadkeys), de(dsb_qwertz) ...) နဲ့ ပတ်သက်ပြီး အသေးစိတ်ဖတ်ကြည့်ချင်ရင်   
  $ man xkeyboard-config
  
- * xev (print contents of X events) command ကိုသုံးပြီး လက်ရှိသုံးနေတဲ့ ကီးဘုတ်လက်ကွက်က ကီးတခုချင်းစီရဲ့ အချက်အလက်တွေကို ရှာဖွေလို့ရနိုင်ပါတယ်။ X server ဆီကို typing event အနေနဲ့ ပို့ပြီး ပြန်လာတဲ့ outputတွေကို လေ့လာကြည့်နိုင်ပါတယ်။ ဥပမာတခုအနေနဲ့ kKg ကီးဘုတ်ကို installation လုပ်ထားပြီး၊ ကီးဘုတ်ကိုလဲ kkg အဖြစ်ပြောင်းထားပြီး xev command နဲ့ k ကီးကို ရိုက်ကြည့်မယ်ဆိုရင် အောက်ပါအတိုင်း မြင်ရပါလိမ့်မယ်။ (လက်တွေ့မှာတော့ မြန်မာစာကီးဘုတ်လက်ကွက် kkg ကိုမပြောင်းခင် command promptမှာ xev ကို အရင်ကြိုရိုက်ထားရပါလိမ့်မယ်)  
+ * xev (print contents of X events) command ကိုသုံးပြီး လက်ရှိသုံးနေတဲ့ ကီးဘုတ်လက်ကွက်က ကီးတခုချင်းစီရဲ့ အချက်အလက်တွေကို ရှာဖွေလို့ရနိုင်ပါတယ်။ X server ဆီကို typing event အနေနဲ့ ပို့ပြီး ပြန်လာတဲ့ outputတွေကို လေ့လာကြည့်နိုင်ပါတယ်။ ဥပမာတခုအနေနဲ့ kKg ကီးဘုတ်ကို installation လုပ်ထားပြီး၊ ကီးဘုတ်ကိုလဲ kkg အဖြစ်ပြောင်းထားပြီး xev command နဲ့ k ကီးကို ရိုက်ကြည့်မယ်ဆိုရင် အောက်ပါအတိုင်း မြင်ရပါလိမ့်မယ်။ (လက်တွေ့မှာတော့ မြန်မာစာကီးဘုတ်လက်ကွက် kkg ကိုမပြောင်းခင် command prompt မှာ xev ကို အရင်ကြိုရိုက်ထားရပါလိမ့်မယ်)  
  
  ![xev-with-kkg-k-key-screen](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xev-with-kkg-k-key-screen-output.png)
   
