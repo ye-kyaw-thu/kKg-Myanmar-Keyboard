@@ -154,9 +154,10 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
   
   * ကီးဘုတ်လက်ကွက်ပုံစံ (/usr/share/X11/xkb/geometry/) တွေကို pdf ဖိုင်အနေနဲ့ print လုပ်ခိုင်းလို့ရပါတယ်။  
   $ xkbcomp /usr/share/X11/xkb/geometry/pc - | xkbprint -color -o - - | ps2pdf - > ~/experiment/kkg/4github/pc-symbols.pdf
-   ဥပမာအနေနဲ့ [pc-geometry](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/pc-geometry.pdf) ဖိုင်ကိုလဲ တင်ပေးထားပါတယ်။  
+   ဥပမာအနေနဲ့ [pc-geometry](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/pc-geometry.pdf) ဖိုင်နဲ့ [microsoft-geometry](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/microsoft-geometry.pdf) ကိုလဲ တင်ပေးထားပါတယ်။ လေ့လာကြည့်ပါ။  
+   
   
-  
+ 
   
 # To Do
 
