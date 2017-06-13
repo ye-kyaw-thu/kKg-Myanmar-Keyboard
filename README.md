@@ -166,7 +166,9 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
    
      ဥပမာအနေနဲ့ [pc-geometry](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/pc-geometry.pdf) ဖိုင်နဲ့ [microsoft-geometry](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/microsoft-geometry.pdf) ကိုလဲ တင်ပေးထားပါတယ်။ လေ့လာကြည့်ပါ။  
    
-   * Key Symbol Definition
+   * Key Code Naming Convention
+   
+   XKB  မှာ ကီးဘုတ်ရဲ့ ကီးတခုချင်းစီကို ပေးထားတဲ့နာမည်ရှိပါတယ်။ symbol ဖိုင်မှာ ဘယ်ကီးမှာ ဘယ်စာလုံး ပေါ်ချင်တယ်ဆိုပြီး mapping လုပ်တဲ့အခါ အဲဒီ ကီးကုဒ်နာမည်တွေကို ယူသုံးပါတယ်။ https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/pc-geometry.pdf မှာတင်ပေးထားတဲ့ pc-geometry pdfဖိုင်ကိုမှီငြမ်းပါ။ အကြမ်းမျဉ်း ရှင်းပြရန် အောက်ပါပုံကိုညွန်းပါမယ်။ 
    
 ![figure4key-symbol-explanation](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/fig4key-symbol-definition-smallsize.png)
 
