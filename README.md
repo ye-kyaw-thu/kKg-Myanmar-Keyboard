@@ -184,7 +184,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 
 # References
 
-Link: [The X Keyboard Extension](https://www.x.org/releases/X11R7.7/doc/libX11/XKB/xkblib.html#Xkb_Implementation)
-Link: [Creating custom keyboard layouts for X11 using XKB](http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html)
-Link: [How to further enhance XKB configuration](ftp://ftp.mex.ad.jp/pub/X/X11R7.5/doc/doc/input/XKB-Enhancing.txt)
-Link: [Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions)
+Link: [The X Keyboard Extension](https://www.x.org/releases/X11R7.7/doc/libX11/XKB/xkblib.html#Xkb_Implementation)  
+Link: [Creating custom keyboard layouts for X11 using XKB](http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html)  
+Link: [How to further enhance XKB configuration](ftp://ftp.mex.ad.jp/pub/X/X11R7.5/doc/doc/input/XKB-Enhancing.txt)  
+Link: [Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions)  
