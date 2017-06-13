@@ -184,7 +184,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 
 # References
 
-ကျွန်တော် က kKgကီးဘုတ်ကို ဒီဇိုင်းလုပ်စဉ်မှာ အဓိက မှီငြမ်းခဲ့တာကတော့ Linux OS မှာပါတဲ့ XKB configuration command တခုချင်းစီရဲ့ man page တွေနဲ့ An Unreliable Guide to XKB Configuration ပါ။ တခြားလင့်(ခ်)တွေကတော့ ဒီGitHub မှာkKGကို မတင်ခင်မှာ မြန်မာလိုရှင်းပြဖို့အတွက် အင်တာနက်မှာ ရှာဖွေကြည့်ရင်းနဲ့ ကျွန်တော့်လိုပဲ ကိုယ်တိုင် ကီးဘုတ်အသစ် လုပ်ကြည့်ချင်တဲ့ လူပျင်းများအတွက် အသုံးဝင်မယ်လို့ထင်တဲ့ လင့်(ခ်)တွေပါ။  
+ကျွန်တော် က kKgကီးဘုတ်ကို ဒီဇိုင်းလုပ်စဉ်မှာ အဓိက မှီငြမ်းခဲ့တာကတော့ Linux OS မှာပါတဲ့ XKB configuration command တခုချင်းစီရဲ့ man page တွေနဲ့ An Unreliable Guide to XKB Configuration ပါ။ တခြားလင့်(ခ်)တွေကတော့ ဒီGitHub မှာkKgကို မတင်ခင်မှာ မြန်မာလိုရှင်းပြဖို့အတွက် အင်တာနက်မှာ ရှာဖွေကြည့်ရင်းနဲ့ ကျွန်တော့်လိုပဲ ကိုယ်တိုင် ကီးဘုတ်အသစ် လုပ်ကြည့်ချင်တဲ့ လူပျင်းများအတွက် အသုံးဝင်မယ်လို့ထင်တဲ့ လင့်(ခ်)တွေပါ။  
 
 1. [An Unreliable Guide to XKB Configuration](https://www.charvolant.org/doug/xkb/html/xkb.html)  
 2. [The X Keyboard Extension](https://www.x.org/releases/X11R7.7/doc/libX11/XKB/xkblib.html#Xkb_Implementation)  
