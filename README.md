@@ -287,7 +287,7 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
 * Preparing kKg keyboard for Windows OS
 * Making user-study in details (although I am busy... I wish to do when I get a chance)
 
-# မှီငြမ်း (References)
+# မှီငြမ်း (Reference)
 
 ကျွန်တော် က kKgကီးဘုတ်ကို ဒီဇိုင်းလုပ်စဉ်မှာ အဓိက မှီငြမ်းခဲ့တာကတော့ Linux OS မှာပါတဲ့ XKB configuration command တခုချင်းစီရဲ့ man page တွေနဲ့ An Unreliable Guide to XKB Configuration ပါ။ တခြားလင့်(ခ်)တွေကတော့ ဒီGitHub မှာkKgကို မတင်ခင်မှာ မြန်မာလိုရှင်းပြဖို့အတွက် အင်တာနက်မှာ ရှာဖွေကြည့်ရင်းနဲ့ ကျွန်တော့်လိုပဲ ကိုယ်တိုင် ကီးဘုတ်အသစ် လုပ်ကြည့်ချင်တဲ့ လူပျင်းများအတွက် အသုံးဝင်မယ်လို့ထင်တဲ့ လင့်(ခ်)တွေပါ။  
 
