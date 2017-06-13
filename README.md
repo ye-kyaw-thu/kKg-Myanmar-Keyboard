@@ -186,9 +186,9 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 
 ကျွန်တော် က kKgကီးဘုတ်ကို ဒီဇိုင်းလုပ်စဉ်မှာ အဓိက မှီငြမ်းခဲ့တာကတော့ Linux OS မှာပါတဲ့ command တခုချင်းစီရဲ့ man page တွေနဲ့ An Unreliable Guide to XKB Configuration ပါ။ တခြားလင့်(ခ်)တွေကတော့ ဒီGitHub မှာkKGကို မတင်ခင် မြန်မာလိုရှင်းပြဖို့ ရှာဖွေကြည့်ထားတဲ့ထဲက အသုံးဝင်မယ်လို့ထင်တဲ့ လင့်(ခ်)တွေပါ။  
 
-Link: [An Unreliable Guide to XKB Configuration](https://www.charvolant.org/doug/xkb/html/xkb.html)  
-Link: [The X Keyboard Extension](https://www.x.org/releases/X11R7.7/doc/libX11/XKB/xkblib.html#Xkb_Implementation)  
-Link: [Creating custom keyboard layouts for X11 using XKB](http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html)  
-Link: [Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions)  
-Link [XkbKeyTypesForCoreSymbols (3) - Linux Man Page](https://www.systutorials.com/docs/linux/man/3-XkbKeyTypesForCoreSymbols/)
+1. [An Unreliable Guide to XKB Configuration](https://www.charvolant.org/doug/xkb/html/xkb.html)  
+2. [The X Keyboard Extension](https://www.x.org/releases/X11R7.7/doc/libX11/XKB/xkblib.html#Xkb_Implementation)  
+3. [Creating custom keyboard layouts for X11 using XKB](http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html)  
+4. [Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions)  
+5. [XkbKeyTypesForCoreSymbols (3) - Linux Man Page](https://www.systutorials.com/docs/linux/man/3-XkbKeyTypesForCoreSymbols/)
 
