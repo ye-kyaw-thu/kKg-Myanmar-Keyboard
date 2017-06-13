@@ -299,4 +299,5 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
 6. [XkbKeyTypesForCoreSymbols (3) - Linux Man Page](https://www.systutorials.com/docs/linux/man/3-XkbKeyTypesForCoreSymbols/)
 7. [Ivan Pascal's X Keyboard Extension](http://pascal.tsu.ru/en/xkb/)
 8. [The X Keyboard Extension: Protocol Specification](https://www.x.org/docs/XKB/XKBproto.pdf)
+9. [Extending the X Keyboard Map with XKB](http://madduck.net/docs/extending-xkb/)
 
