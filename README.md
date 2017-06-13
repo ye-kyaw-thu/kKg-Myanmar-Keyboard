@@ -168,7 +168,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
    
    * Key Symbol Definition
    
-
+![]()
 
 
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
