@@ -185,10 +185,11 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 
   XKB မှာ ကီးဘုတ်ကီးတွေကို level နဲ့ group တွေအဖြစ် သတ်မှတ်ချက်ဆိုပြီးတော့ရှိပါတယ်။ အဲဒါက ပုံမှန် ကျွန်တော်တို့ သုံးနေကြတဲ့ shift-key ကိုမသုံးပဲရိုက်တာရယ်၊ shift-key ကိုသုံးပြီးရိုက်တာရယ်လောက်အတွက်ပဲ စဉ်းစားပြီး ကီးဘုတ်အသစ်တခုရဲ့ လက်ကွက်ကို ဒီဇိုင်းလုပ်မယ်ဆိုရင်တော့ မသိရင်လဲ အိုကေပါတယ်။ ဒါပေမဲ့ ကီးတခုမှာ စာလုံးတွေကို အများကြီး mapping လုပ်ပြီးသုံးမယ်ဆိုရင်တော့ မသိလို့မဖြစ်ပါဘူး။ ဆိုကြပါစို့ ခင်ဗျားစဉ်းစားနေတဲ့ ကီးဘုတ်လက်ကွက်က မြန်မာစာလုံးတွေအပြင် သင်္ချာဖော်မြူလာတွေမှာ သုံးတဲ့ သင်္ချာသင်္ကေတတွေကို ပါ mapping လုပ်ချင်တယ်ဆိုတဲ့ ကိစ္စမျိုးပါ။ ကျွန်တော်သိတာက XKB မှာ ဒီ level, group ကိုသတ်မှတ်ပြီး ကီးတခုကို စာလုံး ၈လုံးအထိ mapping လုပ်နိုင်တယ် ဆိုတာကိုပါ။ level နဲ့ group တွေကို အောက်ပါပုံအတိုင်း ယူဆပြီး စဉ်းစားပါတယ်။
 
-![level-and-group-of-XKB](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/level-group-of-key-small.png)
+![level-and-group-of-XKB](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/level-group-of-key-small.png)  
+ဥပမာ အနေနဲ့ 
 ```
 key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC";
-key <AD01> { [   q,   Q,   NoSymbol,   NoSymbol,   NoSymbol,   NoSymbol,   NoSymbol,   NoSymbol] };
+key <AD8> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoSymbol] };
 ```
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
    $ sudo dpkg-reconfigure xkb-data
