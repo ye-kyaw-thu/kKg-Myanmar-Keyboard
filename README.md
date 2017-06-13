@@ -180,7 +180,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 
 kKg ကီးဘုတ် mapping ဖိုင်ကိုတော့ ကျွန်တော်က kkg ဆိုပြီး ဖိုင်နာမည်ပေးထားပါတယ်။ ကီးဘုတ်ရဲ့ နာမည်အမှန်က k(capital K)g၊ ကကြီး၊ ခကွေး၊ ဂငယ် ကို k, K, g နဲ့ ရိုက်တာပါလို့ ဆိုလိုတာပါ။ ဒါပေမဲ့ တကယ်သုံးတဲ့ symbol file (သို့) mapping file ကိုတော့ user တွေ ကော်ပီကူးတဲ့နေရာမှာ အခက်အခဲမဖြစ်အောင်လို့၊ small kကိုပဲ သုံးပြီး kkg ဆိုပြီးလုပ်ထားခဲ့ပါတယ်။ kkg ဖိုင်ရဲ့ Homekey အပိုင်းကို ဘယ်လို mapping လုပ်ထားသလဲဆိုတာကို မြင်သာအောင် အောက်ပါပုံကို သုံးပြီးရှင်းပါမယ်။
 
-![example-key-mapping-of-kKg-Homekeys](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/eg-keymapping-homekey-of-kKg-keyboard.png)  
+![example-key-mapping-of-kKg-Homekeys](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/eg-keymapping-homekey-of-kKg-keyboard-kK.png)  
 
 အထက်က Key Code Naming Convention အပိုင်းမှာ ရှင်းပြခဲ့သလိုပဲ၊ ဒီနေရာမှာ 
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
