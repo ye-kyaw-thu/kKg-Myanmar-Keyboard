@@ -3,7 +3,7 @@ I will upload the kKg Myanmar Keyboard Layout that I designed for lazy users (ac
 I hope it will be useful for non Myanmar native users who are studying Myanmar (Burmese) language.  
 Please wait.
 
-**Still preparing readme file ... How to Install and Hacking XKB ... Please Wait! **
+# **Still preparing readme file ... How to Install and Hacking XKB ... Please Wait! **
 
 # kKg ကီးဘုတ် မိတ်ဆက်  
 
@@ -183,7 +183,8 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 * Making user-study in details (although I am busy... I wish to do when I get a chance)
 
 # References
-Link: [An Unreliable Guide to XKB Configuration](https://www.charvolant.org/doug/xkb/html/xkb.html) 
+Link: [An Unreliable Guide to XKB Configuration](https://www.charvolant.org/doug/xkb/html/xkb.html)  
 Link: [The X Keyboard Extension](https://www.x.org/releases/X11R7.7/doc/libX11/XKB/xkblib.html#Xkb_Implementation)  
 Link: [Creating custom keyboard layouts for X11 using XKB](http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html)  
 Link: [Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions)  
+
