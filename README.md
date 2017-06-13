@@ -191,4 +191,5 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 3. [Creating custom keyboard layouts for X11 using XKB](http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html)  
 4. [Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions)  
 5. [XkbKeyTypesForCoreSymbols (3) - Linux Man Page](https://www.systutorials.com/docs/linux/man/3-XkbKeyTypesForCoreSymbols/)
+6. [Ivan Pascal's X Keyboard Extension](http://pascal.tsu.ru/en/xkb/)
 
