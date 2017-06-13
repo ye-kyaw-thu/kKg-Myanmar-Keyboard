@@ -189,7 +189,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 ဥပမာ အနေနဲ့ 
 ```
 key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC";
-key <AD8> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoSymbol] };
+key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoSymbol] };
 ```
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
    $ sudo dpkg-reconfigure xkb-data
