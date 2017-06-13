@@ -1,0 +1,93 @@
+// kKg Keyboard written by Ye Kyaw Thu.
+// Last updated: 10 June 2017
+// Designed for lazy Myanmar users who already familiar with QWERTY keyboard.
+// I hope this keyboard layout will be useful for non Myanmar native users who are learning Myanmar (Burmese) language.
+//
+// *** Just read README file of kKg keyboard mapping concept and practise around 15 min, it will work out.
+// Thank you and Enjoy typing Myanmar (Burmese) characters! :)
+
+
+partial default alphanumeric_keys
+xkb_symbols "basic" {
+    name[Group1]= "kkg";
+    key.type[Group1] = "FOUR_LEVEL";
+    
+
+    // Alphanumeric section
+    key <TLDE> { [	U100E,	U007E,	grave,	asciitilde ] }; // ဎ ~
+    key <AE01> { [	U1041,	U1023,	1,	exclam ] }; //  ၁  ဣ
+    key <AE02> { [	U1042,	U1024,	2,	at ] }; //  ၂  ဤ
+    key <AE03> { [      U1043,	U104C,	3,	numbersign ] }; //  ၃  ၌
+    key <AE04> { [	U1044,	U104E,	4,	dollar ] }; //  ၄  ၎
+    key <AE05> { [	U1045,	U0025,	5,	percent ] }; //  ၅  %
+    key <AE06> { [	U1046,	U005E,	6,	asciicircum ] }; //  ၆  ^
+    key <AE07> { [	U1047,	U0026,	7,	ampersand ] }; //  ၇  &
+    key <AE08> { [	U1048,	U002A,	8,	asterisk ] }; //  ၈  * 
+    key <AE09> { [	U1049,	U0028,	9,	parenleft ] }; //  ၉  (
+    key <AE10> { [	U1040,	U0029,	0,	parenright ] }; //  ၀  )
+    key <AE11> { [	minus,	underscore,	minus,	underscore ] }; // - _
+    key <AE12> { [	equal,	plus,	equal,	plus ] }; // = +
+
+    key <AD01> { [	U100A,	U1009,	q,	Q ] }; //  ည  ဉ
+    key <AD02> { [	U101D,	U103D,	w,	W ] }; //  ဝ  ွ
+    key <AD03> { [	U1032,	U1027,	e,	E ] }; //  ဲ   ဧ
+    key <AD04> { [	U102C,	U102B,	r,	R ] }; //  ာ  ါ
+    key <AD05> { [	U101E,	U1010,	t,	T ] }; //  သ  တ
+    key <AD06> { [	U101B,	U101A,	y,	Y ] }; //  ရ  ယ
+    key <AD07> { [	U102F,	U1030,	u,	U ] }; //  ု   ူ
+    key <AD08> { [	U102D,	U102E,	i,	I ] }; //  ိ  ီ
+    key <AD09> { [	U102A,	U1029,	o,	O ] }; // ဪ  ဩ
+    key <AD10> { [	U1015,	U1016,	p,	P ] }; //  ပ  ဖ
+    key <AD11> { [	U005B,	U007B,	bracketleft,	braceleft ] }; //  [ {
+    key <AD12> { [	U005D,	U007D,	bracketright,	braceright ] }; //  ] }
+
+    key <AC01> { [	U1021,	U1031,	a,	A ] }; //  အ  ေ
+    key <AC02> { [	U1005,	U1006,	s,	S ] }; //  စ  ဆ
+    key <AC03> { [	U1012,	U1013,	d,	D ] }; //  ဒ  ဓ
+    key <AC04> { [	U103A,	U1039,	f,	F ] }; //  ်  ္ (padsint symbol)
+    key <AC05> { [	U1002,	U1003,	g,	G ] }; //  ဂ  ဃ
+    key <AC06> { [	U101F,	U103E,	h,	H ] }; //  ဟ  ှ
+    key <AC07> { [	U103B,	U103C,	j,	J ] }; //  ျ  ြ
+    key <AC08> { [	U1000,	U1001,	k,	K ] }; //  က  ခ
+    key <AC09> { [	U101C,	U1020,	l,	L ] }; //  လ  ဠ
+    key <AC10> { [	U1038,	U104B,	semicolon,	colon ] }; //  း  ။ 
+    key <AC11> { [	apostrophe,	quotedbl  ] }; // ' " 
+
+    key <AB01> { [	U1007,	U1008,	z,	Z ] }; //  ဇ    ဈ
+    key <AB02> { [	U1011,	U100C,	x,	X ] }; //  ထ    ဌ
+    key <AB03> { [	U1004,	U1025,	c,	C ] }; //  င  ဥ
+    key <AB04> { [	U100B,	U100D,	v,	V ] }; //  ဋ  ဍ    
+    key <AB05> { [	U1018,	U1017,	b,	B ] }; //  ဘ  ဗ
+    key <AB06> { [	U1014,	U100F,	n,	N ] }; //  န  ဏ
+    key <AB07> { [	U1019,	U1026,	m,	M ] }; //  မ  ဦ
+    key <AB08> { [	U104A,	U104D,	comma,	less ] }; //  ၊  ၍
+    key <AB09> { [	U1037,	U1036,	period,	greater ] }; //  ့  ံ
+    key <AB10> { [	U103F,	U104F,	slash,	question ] }; //  ဿ ၏ 
+    key <BKSL> { [	U005C,	U005F,	backslash,	bar ] }; //
+
+    // This key mapping is for JP pc106 keyboards (just left of right-shift key)
+    key <AB11> { [ backslash, bar ] };
+    
+    // CAPS key will work like Shift key
+    //key <CAPS> { [ ISO_Level3_Shift]};
+
+    // CAPS key will work like Shift key
+    //key <CAPS> { [ ISO_Level5_Shift]};
+
+    //key <CAPS> { [ ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift ] };
+    key <RALT>  { type[Group1]="TWO_LEVEL",
+                [ ISO_Level3_Shift, Multi_key ]   };
+    modifier_map Mod5   { <RALT> };
+    
+    // End alphanumeric section
+
+
+};
+
+
+// for updating:
+//sudo dpkg-reconfigure xkb-data
+
+//for testing keyboard mapping:
+//xev | sed -ne '/^KeyPress/,/^$/p'
+
