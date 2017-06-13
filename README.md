@@ -172,7 +172,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
    
 ![figure4key-symbol-explanation](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/fig4key-symbol-definition-smallsize.png)
 
-
+စပေစ့်ဘားရှိတဲ့ 
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
    $ sudo dpkg-reconfigure xkb-data
    
@@ -194,4 +194,5 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 4. [Custom keyboard layout definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions)  
 5. [XkbKeyTypesForCoreSymbols (3) - Linux Man Page](https://www.systutorials.com/docs/linux/man/3-XkbKeyTypesForCoreSymbols/)
 6. [Ivan Pascal's X Keyboard Extension](http://pascal.tsu.ru/en/xkb/)
+7. [The X Keyboard Extension: Protocol Specification](https://www.x.org/docs/XKB/XKBproto.pdf)
 
