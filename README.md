@@ -3,7 +3,7 @@ I will upload the kKg Myanmar Keyboard Layout that I designed for lazy users (ac
 I hope it will be useful for non Myanmar native users who are studying Myanmar (Burmese) language.  
 Please wait.
 
-# **Still preparing readme file ... How to Install and Hacking XKB ... Please Wait! **
+# **Still preparing readme file ... How to Install XKB ... Please Wait! **
 
 # kKg ကီးဘုတ် မိတ်ဆက်  
 
