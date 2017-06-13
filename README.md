@@ -187,6 +187,10 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 
 ![level-and-group-of-XKB](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/level-group-of-key-small.png)
 
+    ```
+    key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC";
+    key <AD01> { [     q,     Q,     NoSymbol,     NoSymbol,     NoSymbol,     NoSymbol,     NoSymbol,     NoSymbol] };
+    ```
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
    $ sudo dpkg-reconfigure xkb-data
   
