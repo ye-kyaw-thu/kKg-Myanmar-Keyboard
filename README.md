@@ -98,7 +98,7 @@ kKg လက်ကွက်ကို လက်ရှိ ရှိပြီးသ�
 
  1. kkg ဖိုင်ကို ...
  2. /bla/bla/bla
- 3. 
+ 3. [3 character country code](http://www.loc.gov/standards/iso639-2/php/English_list.php)
  4. 
  5. 
 
