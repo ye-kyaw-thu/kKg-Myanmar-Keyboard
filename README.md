@@ -256,6 +256,14 @@ __(အထက်ပါဖို(လ်)ဒါက ဖိုင်တွေကိ�
   $ xkbcomp /usr/share/X11/xkb/geometry/pc - | xkbprint -color -o - - | ps2pdf - > ~/experiment/kkg/4github/pc-symbols.pdf  
    
      ဥပမာအနေနဲ့ [pc-geometry](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/pc-geometry.pdf) ဖိုင်နဲ့ [microsoft-geometry](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/microsoft-geometry.pdf) ကိုလဲ တင်ပေးထားပါတယ်။ လေ့လာကြည့်ပါ။  
+     
+   * showkey ဆိုတဲ့ command နဲ့ လဲ ကီးဘုတ် ကီးတွေရဲ့ ascii-code, scan-codes, key-codes ကိုကြည့်လို့ရပါတယ်။ -s (--scancodes) option နဲ့ -k --keycodes option တွေက ပုံမှန် terminal မှာ အလုပ်မလုပ်ပါဘူး။ virtual consoal (e.g. tty1, tty2) တွေမှာမှ အလုပ်လုပ်ပါလိမ့်မယ်။  
+   
+   ပြောရမယ်ဆိုရင်တော့ showkey က ဟိုးအရင်ကတည်းက သုံးခဲ့ကြတဲ့ command ဖြစ်ပုံရပါတယ်။ စမ်းကြည့်ချင်လို့ virtual consola 1 ကို သွားမယ် ဆိုရင် Ctrl+Alt+F1 ကို နှိပ်ပါ။ ပုံမှန်က virtual console (virtual terminal လို့လဲခေါ်) ၆ခု အထိ (F1 .. F6) အထိသုံးလို့ရတယ်။ virtual console က graphical environemnt မလိုပဲသုံးချင်တဲ့ အခါ၊ တချို့ system level အတွက် အလုပ်လုပ်တဲ့ အခါမှာသုံးတယ်။ အဲဒါကြောင့် သူက ကျွန်တော်တို့ ပုံမှန်သုံးနေကြတဲ့ X Windows အထဲကနေ ခေါ် run တဲ့ terminal နဲ့ မတူဘူး။ အောက်ကပုံမှာ ကျွန်တော်ရဲ့စက် virtual console တစ်ခုမှာ showkey နဲ့ scancodes တွေကို ဖတ်ကြည့်တာကို ဥပမာအနေနဲ့ မြင်ရပါလိမ့်မယ်။  
+   
+   ![testing-showkey-scancodes-option-at-tty1](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/showkey-usage-at-tty.png)
+   
+   virtual console တွေကနေ X ကို ပြန်သွားမယ်ဆိုရင် Ctrl+Alt+F7 ကိုနှိပ်ပါ။
    
    * Key Code Naming Convention  
    XKB  မှာ ကီးဘုတ်ရဲ့ ကီးတခုချင်းစီကို ပေးထားတဲ့နာမည်ရှိပါတယ်။ symbol ဖိုင်မှာ ဘယ်ကီးမှာ ဘယ်စာလုံး ပေါ်ချင်တယ်ဆိုပြီး mapping လုပ်တဲ့အခါ အဲဒီ ကီးကုဒ်နာမည်တွေကို ယူသုံးပါတယ်။ ကီးဘုတ်ကီးအားလုံးအတွက် mapping ကိုတော့ https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/pc-geometry.pdf မှာတင်ပေးထားတဲ့ pc-geometry.pdf ဖိုင်ကိုမှီငြမ်းပါ။ အကြမ်းမျဉ်း ရှင်းပြရန် အောက်ပါပုံကိုညွန်းပါမယ်။ 
@@ -296,14 +304,6 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
 ```
 
    ကီးဘုတ်ရဲ့ကီးတွေကို modifier key တွေနဲ့ Groupတွေ၊ Levelတွေ ခွဲပြီး mapping လုပ်ဖို့ဆိုရင် အသေးစိတ်လေ့လာရမဲ့ အပိုင်းတွေနဲ့ လက်တွေ့လုပ်ကြည့်ရမဲ့အပိုင်းတွေ အများကြီးကျန်ပါသေးတယ်။ ဒီနေရာအထိ သေသေချာချာဖတ်ခဲ့ပြီးပြီဆိုရင်တော့ XKB ဆိုတာဘာလဲ၊ ဘယ်လို commandတွေကို သုံးတာလဲနဲ့ Linux OS ပေါ်မှာ keyboard mapping ကို ဘယ်လိုလုပ်တယ်ဆိုတဲ့ သဘောတရား၊ တနည်းအားဖြင့် ပြောရရင် ကွန်ပြူတာကီးဘုတ်ကို ဘယ်လိုဝင်ပြင်လို့ရတယ် ဆိုတာကိုတော့ သိလောက်ပြီလို့ယူဆပါတယ်။ လက်တွေ့ keyboard hacking လုပ်ကြည့်မယ်ဆိုရင်တော့ အင်္ဂလိပ်လိုတော့ ဖတ်ရမှာ ဖြစ်ပေမဲ့ References မှာတင်ပေးထားတဲ့ link တွေက ကောင်းပါတယ်။
-   
-   * showkey ဆိုတဲ့ command နဲ့ လဲ ကီးဘုတ် ကီးတွေရဲ့ ascii-code, scan-codes, key-codes ကိုကြည့်လို့ရပါတယ်။ -s (--scancodes) option နဲ့ -k --keycodes option တွေက ပုံမှန် terminal မှာ အလုပ်မလုပ်ပါဘူး။ virtual consoal (e.g. tty1, tty2) တွေမှာမှ အလုပ်လုပ်ပါလိမ့်မယ်။  
-   
-   ပြောရမယ်ဆိုရင်တော့ showkey က ဟိုးအရင်ကတည်းက သုံးခဲ့ကြတဲ့ command ဖြစ်ပုံရပါတယ်။ စမ်းကြည့်ချင်လို့ virtual consola 1 ကို သွားမယ် ဆိုရင် Ctrl+Alt+F1 ကို နှိပ်ပါ။ ပုံမှန်က virtual console (virtual terminal လို့လဲခေါ်) ၆ခု အထိ (F1 .. F6) အထိသုံးလို့ရတယ်။ virtual console က graphical environemnt မလိုပဲသုံးချင်တဲ့ အခါ၊ တချို့ system level အတွက် အလုပ်လုပ်တဲ့ အခါမှာသုံးတယ်။ အဲဒါကြောင့် သူက ကျွန်တော်တို့ ပုံမှန်သုံးနေကြတဲ့ X Windows အထဲကနေ ခေါ် run တဲ့ terminal နဲ့ မတူဘူး။ အောက်ကပုံမှာ ကျွန်တော်ရဲ့စက် virtual console တစ်ခုမှာ showkey နဲ့ scancodes တွေကို ဖတ်ကြည့်တာကို ဥပမာအနေနဲ့ မြင်ရပါလိမ့်မယ်။  
-   
-   ![testing-showkey-scancodes-option-at-tty1](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/showkey-usage-at-tty.png)
-   
-   virtual console တွေကနေ X ကို ပြန်သွားမယ်ဆိုရင် Ctrl+Alt+F7 ကိုနှိပ်ပါ။
    
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
    $ sudo dpkg-reconfigure xkb-data
