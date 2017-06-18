@@ -2,12 +2,9 @@
 kKg Myanmar (Unicode) Keyboard Layout that I designed for lazy users (actually, I was the 1st user :).  
 I do hope it will be useful for non Myanmar native users who are studying Myanmar (Burmese) language.  
 
-# kKg ကီးဘုတ် မိတ်ဆက်  
+# Introduction to kKg Keyboard Layout
 
-ကျွန်တော်က မြန်မာစာလုံးတွေကို အရမ်းချစ်ပါတယ်၊ သို့သော် မြန်မာစာကို ရိုက်ဖို့အတွက် အဲဒီအချိန်တုန်းက ရှိနေတဲ့ မြန်မာစာကီးဘုတ်လက်ကွက်တွေကိုကြည့်ပြီး၊ လေ့ကျင့်ဖို့ အရမ်းကို အပျင်းကျခဲ့ပါတယ်။
-၂၀၀၄ ခုနှစ်လောက်ကပါ။ ကျွန်တော် ဂျပန်၊ တိုကျိုမှာရှိတဲ့ Waseda တက္ကသိုလ်မှာ မဟာဘွဲ့အတန်းတက်နေစဉ်၊  မြန်မာစာနဲ့ ပတ်သက်တဲ့  UI (User Interface)သုတေသနတွေကို စလုပ်ဖြစ်တော့ မြန်မာစာကို ကွန်ပြူတာသုံးပြီး ရိုက်ဖို့ လိုအပ်လာတဲ့ အခါ၊ kKg ကီးဘုတ်ကို စပြီးစဉ်းစားဖြစ်ခဲ့ပါတယ်။
-ငါက QWERTY ကီးဘုတ်ကို သုံးပြီး အင်္ဂလိပ်လို ရိုက်တတ်နေတာပဲ၊ QWERTY ကီးဘုတ်အက္ခရာအစီအစဉ်အတိုင်း မြန်မာစာကိုကော mapping လုပ်လို့ မရနိုင်ဘူးလားလို့။
-အဲဒါနဲ့ ဒီ kKg ကီးဘုတ်ကို လုပ်ဖြစ်သွားခဲ့ပါတယ်။
+Although I love Myanmar characters, I was so lazy for practising Myanmar text typing with existing Myanmar keyboard layouts. Actually, most of the Myanmar keyboard layouts are based on old Myanmar typewriter layout and they have similar key mappings. In 2004, I have to type Myanmar text for my master thesis research relating to __Myanmar text typing on mobile phone__. I hope you can guess the situation ... He Hee.. :) And thus, I did self-study for changing keyboard layout on Linux OS with XKB and this is the history of my "kKg Keyboard Layout". 
 
 kKg ကီးဘုတ် ခလုပ်နေရာချပုံ (keyboard layout) က မြန်မာစာ စာလုံးတွေရဲ့ အသံထွက်ပေါ်ကို အဓိက အခြေခံထားပါတယ်။
 အင်္ဂလိပ်ကီးဘုတ် ရိုက်နေကြသူများက အကျွမ်းတဝင် ရှိပြီးသားဖြစ်တဲ့ Shift ကီးနဲ့တွဲပြီး အင်္ဂလိပ်စာလုံး အသေး၊ အကြီး ပြောင်းတဲ့ပုံစံကိုလဲ အသုံးပြုထားပါတယ်။
