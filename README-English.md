@@ -21,7 +21,9 @@ My idea is mapping Myanmar characters on English QWERTY keyboard based on their 
 * ယ on (Shift+y), ရ on y key   
 * လ on l key, ဠ on (Shift+l) key ... 
 
-Now, finished key mapping for almost all of the Myanmar consonant, right? 
+Now, finished key mapping for almost all of the Myanmar consonant, right?  
+
+In practically, there are 33 Myanmar consonants and 26 keys of English is not enough.
 
 ဒါပေမဲ့ တချို့သော မြန်မာစာလုံးတွေက အသံထွက်ဆင်တူတဲ့ အတွက်ကြောင့် (ဥပမာ တ၊ ထ၊ သ လို ဗျည်းစာလုံး၊ ဒ၊ ဓ၊ ဋ၊ ဍ၊ ဎ၊ လို ဗျည်းတွေ) အင်္ဂလိပ်ကီးဘုတ်ရဲ့ ကီးတွေနဲ့က မလောက်ပါဘူး။
 ထို့အပြင် မြန်မာ ဗျည်းစာလုံးအရေအတွက်က စုစုပေါင်း ၃၃လုံးရှိပြီး၊ အင်္ဂလိပ်စာလုံး စုစုပေါင်းအရေအတွက်က စုစုပေါင်း၂၆လုံး ဆိုတော့  မြန်မာဗျည်းစာလုံးအားလုံးကို အသံထွက်ပေါ်အခြေခံပြီး နေရာချလို့ မဖြစ်နိုင်ပါ။
