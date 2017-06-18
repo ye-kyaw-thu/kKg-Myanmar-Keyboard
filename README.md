@@ -297,10 +297,11 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
    
    * showkey ဆိုတဲ့ command နဲ့ လဲ ကီးဘုတ် ကီးတွေရဲ့ ascii-code, scan-codes, key-codes ကိုကြည့်လို့ရပါတယ်။ -s (--scancodes) option နဲ့ -k --keycodes တွေက ပုံမှန် terminal မှာ အလုပ်မလုပ်ပါဘူး။ virtual consoal (e.g. tty1, tty2) တွေမှာမှ အလုပ်လုပ်ပါလိမ့်မယ်။  
    
-   ပြောရမယ်ဆိုရင်တော့ showkey က ဟိုးအရင်ကတည်းက သုံးခဲ့ကြတဲ့ command ဖြစ်ပုံရပါတယ်။ စမ်းကြည့်ချင်လို့ virtual consola 1 ကို သွားမယ် ဆိုရင် Ctrl+Alt+F1 ကို နှိပ်ပါ။ အောက်က ကျွန်တော်ရဲ့စက် virtual console 1 ပုံမှာ မြင်ရတဲ့အတိုင်း scancodes တွေကို မြင်ရပါလိမ့်မယ်။
+    ပြောရမယ်ဆိုရင်တော့ showkey က ဟိုးအရင်ကတည်းက သုံးခဲ့ကြတဲ့ command ဖြစ်ပုံရပါတယ်။ စမ်းကြည့်ချင်လို့ virtual consola 1 ကို သွားမယ် ဆိုရင် Ctrl+Alt+F1 ကို နှိပ်ပါ။ အောက်က ကျွန်တော်ရဲ့စက် virtual console 1 ပုံမှာ မြင်ရတဲ့အတိုင်း scancodes တွေကို မြင်ရပါလိမ့်မယ်။  
+   
    ![testing-showkey-scancodes-option-at-tty1](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/showkey-usage-at-tty.png)
    
-   virtual console တွေကနေ X ကို ပြန်သွားမယ်ဆိုရင် Ctrl+Alt+F7 ကိုနှိပ်ပါ။
+    virtual console တွေကနေ X ကို ပြန်သွားမယ်ဆိုရင် Ctrl+Alt+F7 ကိုနှိပ်ပါ။
    
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
    $ sudo dpkg-reconfigure xkb-data
