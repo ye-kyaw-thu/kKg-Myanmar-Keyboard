@@ -197,7 +197,7 @@ Ubuntu OS မှာဆိုရင် /usr/share/X11/xkb/ ဆိုတဲ့ pat
 ![xkb-path-info](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/path-info.png)  
 __(အထက်ပါဖို(လ်)ဒါက ဖိုင်တွေကို ဝင်ပြင်ဖို့ ဆိုရင် sudo command ကို သုံးဖို့လိုအပ်ပါတယ်)__
 
-အသုံးဝင်တဲ့ command examples တချို့ကတော့ အောက်ပါအတိုင်းဖြစ်ပါတယ်။
+အသုံးဝင်တဲ့ (မသိလို့မဖြစ်တဲ့) command တွေနဲ့ သုံးပုံသုံးနည်း (example usage) တချို့ကတော့ အောက်ပါအတိုင်းဖြစ်ပါတယ်။
 
 * ကီးဘုတ်ကို us layout အဖြစ်ပြောင်းချင်တဲ့အခါ  
   $ setxkbmap -layout us
