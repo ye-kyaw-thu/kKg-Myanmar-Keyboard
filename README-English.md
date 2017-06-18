@@ -12,14 +12,14 @@ My idea is mapping Myanmar characters on English QWERTY keyboard based on their 
 * က on k key, ခ on K (shift+k) key  
 * ဂ on g key, ဃ on G (Shift+g) key  
 * စ on s key, ဆ on S (Shift+s) key  
-* ဇ ကို z ကီး၊ ဈ ကို  Z (Shift+z) ကီး။  
-* ဒ ကို d ကီး၊ ဓ ကို D (Shift+d) ကီး။  
-* န ကို n ကီး၊ ဏ ကို N (Shift+n) ကီး။  
-* ပ ကို p ကီး၊ ဖ ကို P (Shift:p) ကီး။  
-* ဗ ကို B (Shift+b)ကီး၊ ဘ ကို b ကီး။  
-* မ ကို m ကီး။  
-* ယ ကို (Shift+y)၊ ရ ကို y ကီး။   
-* လ ကို l ကီး၊ ဠ ကို (Shift+l)ကီး မှာအသီးသီး နေရာချနိုင်ပါတယ်။  
+* ဇ on z key, ဈ on  Z (Shift+z) key  
+* ဒ on d key, ဓ on D (Shift+d) key  
+* န on n key, ဏ on N (Shift+n) key  
+* ပ on p key, ဖ on P (Shift+p) key  
+* ဗ on B (Shift+b)key, ဘ on b key  
+* မ on m key  
+* ယ on (Shift+y)၊ ရ on y key   
+* လ on l key ဠ on (Shift+l) key ... 
 
 ဒါဆိုရင် အသုံးများတဲ့မြန်မာဗျည်းက ကုန်သလောက်ရှိသွားပါပြီ။
 ဒါပေမဲ့ တချို့သော မြန်မာစာလုံးတွေက အသံထွက်ဆင်တူတဲ့ အတွက်ကြောင့် (ဥပမာ တ၊ ထ၊ သ လို ဗျည်းစာလုံး၊ ဒ၊ ဓ၊ ဋ၊ ဍ၊ ဎ၊ လို ဗျည်းတွေ) အင်္ဂလိပ်ကီးဘုတ်ရဲ့ ကီးတွေနဲ့က မလောက်ပါဘူး။
