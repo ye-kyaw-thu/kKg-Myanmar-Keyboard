@@ -4,15 +4,14 @@ I do hope it will be useful for non Myanmar native users who are studying Myanma
 
 # Introduction to kKg Keyboard Layout
 
-Although I love Myanmar characters, I was so lazy for practising Myanmar text typing with existing Myanmar keyboard layouts. Actually, most of the Myanmar keyboard layouts are based on old Myanmar typewriter layout and they have similar key mappings. In 2004, I have to type Myanmar text for my master thesis research relating to __Myanmar text typing on mobile phone__. I hope you can guess the situation ... He Hee.. :) And thus, I did self-study for changing keyboard layout on Linux OS with XKB and this is the history of my "kKg Keyboard Layout". 
+Although I love Myanmar characters, I was so lazy for practising Myanmar text typing with existing Myanmar keyboard layouts. Actually, most of the Myanmar keyboard layouts are based on old Myanmar typewriter layout and they have similar key mappings. In 2004, I have to type Myanmar text for my master thesis research relating to __Myanmar text typing on mobile phone__. I hope you can guess the situation ... He Hee.. :) And thus, I did self-study on changing keyboard layout on Linux OS with XKB and this is the history of my "kKg Keyboard Layout". 
 
-kKg ကီးဘုတ် ခလုပ်နေရာချပုံ (keyboard layout) က မြန်မာစာ စာလုံးတွေရဲ့ အသံထွက်ပေါ်ကို အဓိက အခြေခံထားပါတယ်။
-အင်္ဂလိပ်ကီးဘုတ် ရိုက်နေကြသူများက အကျွမ်းတဝင် ရှိပြီးသားဖြစ်တဲ့ Shift ကီးနဲ့တွဲပြီး အင်္ဂလိပ်စာလုံး အသေး၊ အကြီး ပြောင်းတဲ့ပုံစံကိုလဲ အသုံးပြုထားပါတယ်။
-အဲဒီ အချက် ၂ချက်အပေါ်ကို အခြေခံထားပြီးတော့
+My idea is mapping Myanmar characters on English QWERTY keyboard based on their phonetic similarites with English characters such as Myanmar consonant "က" (Ka) on k key, "ခ" (Kha) on K (Shift+K) key. We will get following mapping:
 
-* က ကို k ကီး၊ ခ ကို K (shift+k) ကီး။  
-* ဂ ကို g ကီး၊ ဃ ကို G (Shift+g) ကီး။  
-* စ ကို s ကီး၊ ဆ ကို S (Shift+s) ကီး။  
+
+* က on k key, ခ on K (shift+k) key  
+* ဂ on g key, ဃ on G (Shift+g) key  
+* စ on s key, ဆ on S (Shift+s) key  
 * ဇ ကို z ကီး၊ ဈ ကို  Z (Shift+z) ကီး။  
 * ဒ ကို d ကီး၊ ဓ ကို D (Shift+d) ကီး။  
 * န ကို n ကီး၊ ဏ ကို N (Shift+n) ကီး။  
