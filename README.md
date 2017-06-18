@@ -1,5 +1,6 @@
 
 # **Still preparing readme file ... How to Install XKB ... Please Wait! **
+[README in English](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/README-English.md)
 
 # kKg ကီးဘုတ် မိတ်ဆက်  
 
