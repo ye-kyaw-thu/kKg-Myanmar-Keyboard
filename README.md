@@ -295,6 +295,13 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
 
    ကီးဘုတ်ရဲ့ကီးတွေကို modifier key တွေနဲ့ Groupတွေ၊ Levelတွေ ခွဲပြီး mapping လုပ်ဖို့ဆိုရင် အသေးစိတ်လေ့လာရမဲ့ အပိုင်းတွေနဲ့ လက်တွေ့လုပ်ကြည့်ရမဲ့အပိုင်းတွေ အများကြီးကျန်ပါသေးတယ်။ ဒီနေရာအထိ သေသေချာချာဖတ်ခဲ့ပြီးပြီဆိုရင်တော့ XKB ဆိုတာဘာလဲ၊ ဘယ်လို commandတွေကို သုံးတာလဲနဲ့ Linux OS ပေါ်မှာ keyboard mapping ကို ဘယ်လိုလုပ်တယ်ဆိုတဲ့ သဘောတရား၊ တနည်းအားဖြင့် ပြောရရင် ကွန်ပြူတာကီးဘုတ်ကို ဘယ်လိုဝင်ပြင်လို့ရတယ် ဆိုတာကိုတော့ သိလောက်ပြီလို့ယူဆပါတယ်။ လက်တွေ့ keyboard hacking လုပ်ကြည့်မယ်ဆိုရင်တော့ အင်္ဂလိပ်လိုတော့ ဖတ်ရမှာ ဖြစ်ပေမဲ့ References မှာတင်ပေးထားတဲ့ link တွေက ကောင်းပါတယ်။
    
+   * showkey ဆိုတဲ့ command နဲ့ လဲ ကီးဘုတ် ကီးတွေရဲ့ ascii-code, scan-codes, key-codes ကိုကြည့်လို့ရပါတယ်။ -s (--scancodes) option နဲ့ -k --keycodes တွေက ပုံမှန် terminal မှာ အလုပ်မလုပ်ပါဘူး။ virtual consoal (e.g. tty1, tty2) တွေမှာမှ အလုပ်လုပ်ပါလိမ့်မယ်။  
+   
+   ပြောရမယ်ဆိုရင်တော့ showkey က ဟိုးအရင်ကတည်းက သုံးခဲ့ကြတဲ့ command ဖြစ်ပုံရပါတယ်။ စမ်းကြည့်ချင်လို့ virtual consola 1 ကို သွားမယ် ဆိုရင် Ctrl+Alt+F1 ကို နှိပ်ပါ။ အောက်က ကျွန်တော်ရဲ့စက် virtual console 1 ပုံမှာ မြင်ရတဲ့အတိုင်း scancodes တွေကို မြင်ရပါလိမ့်မယ်။
+   ![testing-showkey-scancodes-option-at-tty1](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/showkey-usage-at-tty.png)
+   
+   virtual console တွေကနေ X ကို ပြန်သွားမယ်ဆိုရင် Ctrl+Alt+F7 ကိုနှိပ်ပါ။
+   
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
    $ sudo dpkg-reconfigure xkb-data
   
