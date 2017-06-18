@@ -246,7 +246,7 @@ __(အထက်ပါဖို(လ်)ဒါက ဖိုင်တွေကိ�
    
   ![xmodemap-4-alt-key-screen-output](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xmodemap-4-alt-key.png)  
   
-  * xmodemap ကို သုံးပြီး လက်ရှိ kKg keyboard လက်ကွက်ရဲ့ key code တွေနဲ့ သက်ဆိုင်ရာကီးတွေကို list လုပ်ပြီး၊ ဖိုင်အနေနဲ့သိမ်းထားချင်တယ်ဆိုရင်
+  * xmodemap ကို သုံးပြီး လက်ရှိ kKg keyboard လက်ကွက်ရဲ့ key code တွေနဲ့ သက်ဆိုင်ရာကီးတွေကို list လုပ်ပြီး၊ ဖိုင်အနေနဲ့သိမ်းထားချင်တယ်ဆိုရင်  
   $ xmodmap -pke > kkg-xmodmap-pkeOption.txt  
   လေ့လာချင်သူများအတွက်၊ xkb-intro/ ဖိုလ်ဒါအောက်မှာ kKG keyboard (version 1.0) ရဲ့ key code တွေကို [kkg-xmodmap-pkeOption.txt](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/kkg-xmodmap-pkeOption.txt) ဖိုင်အနေနဲ့သိမ်းပြီး တင်ပေးထားပါတယ်။  
   
