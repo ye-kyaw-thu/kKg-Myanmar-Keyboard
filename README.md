@@ -244,7 +244,11 @@ __(အထက်ပါဖို(လ်)ဒါက ဖိုင်တွေကိ�
   * xmodemap command ကိုသုံးပြီး၊ Alter ကီးနဲ့ပတ်သတ်ပြီးတာကိုပဲ ကြည့်ချင်တယ်ဆိုရင်  
    $ xmodmap -pk | grep -i alt  
    
-  ![xmodemap-4-alt-key-screen-output](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xmodemap-4-alt-key.png)
+  ![xmodemap-4-alt-key-screen-output](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xmodemap-4-alt-key.png)  
+  
+  * xmodemap ကို သုံးပြီး လက်ရှိ kKg keyboard လက်ကွက်ရဲ့ key code တွေနဲ့ သက်ဆိုင်ရာ ကီးတွေကို list လုပ်ကြည့်လို့ရပါတယ်။
+  $ xmodmap -pke > kkg-xmodmap-pkeOption.txt  
+  လေ့လာချင်သူများအတွက်၊ ဖိုလ်ဒါအောက်မှာ kkg-xmodmap-pkeOption.txt ဖိုင်ကို တင်ပေးထားပါတယ်။
   
   * ကီးဘုတ်လက်ကွက်ပုံစံ (/usr/share/X11/xkb/geometry/) တွေကို pdf ဖိုင်အနေနဲ့ print လုပ်ခိုင်းလို့ရပါတယ်။  
   $ xkbcomp /usr/share/X11/xkb/geometry/pc - | xkbprint -color -o - - | ps2pdf - > ~/experiment/kkg/4github/pc-symbols.pdf  
