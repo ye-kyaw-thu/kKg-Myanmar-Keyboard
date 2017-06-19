@@ -82,8 +82,7 @@ kKg keyboard is not only for Linux OS and I plan to upload installer for Windows
 ## Installation kKg on Ubuntu OS  
 
 ### Installation Method (1)  
-If you plan to replace default Myanmar keyboard layout with kKg. It's mean you can see only kKg keyboard layout with the default name "Burmese" in your Text Entry Settings.    
-Note: You can return back to default Myanmar keyboard when you need.
+If you plan to replace default Myanmar keyboard layout with kKg, do the following steps. With this installation method, you can see only kKg keyboard layout with the default name "Burmese" in your Text Entry Settings. You can return back to default Myanmar keyboard when you need.  
 
  1. First move to xkb/symbols directory:   
    cd /usr/share/X11/xkb/symbols/  
