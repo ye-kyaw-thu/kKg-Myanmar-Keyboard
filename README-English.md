@@ -94,7 +94,7 @@ Note: You can return back to default Myanmar keyboard when you need.
  3. Copy [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) file into /usr/share/X11/xkb/symbols/ directory as "mm":  
     sudo cp ~/your-download-path/kkg ./mm   
 
-Installation Method (2)
+Installation Method (2)  
 If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
 
  1. kkg
