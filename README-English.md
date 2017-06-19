@@ -11,17 +11,17 @@ Although I love Myanmar characters, I was so lazy for practising Myanmar text ty
 My idea is mapping Myanmar characters on English QWERTY keyboard based on their phonetic similarites with English characters such as Myanmar consonant "က" (Ka) on k key, "ခ" (Kha) on K (Shift+K) key. Here, I have to consider which character should I put on shifted keys. Generally, frequently used characters were put on unshifted keys. Refer following key mapping:
 
 
-* က on k key, ခ on K (shift+k) key  
-* ဂ on g key, ဃ on G (Shift+g) key  
-* စ on s key, ဆ on S (Shift+s) key  
-* ဇ on z key, ဈ on  Z (Shift+z) key  
-* ဒ on d key, ဓ on D (Shift+d) key  
-* န on n key, ဏ on N (Shift+n) key  
-* ပ on p key, ဖ on P (Shift+p) key  
-* ဗ on B (Shift+b)key, ဘ on b key  
-* မ on m key  
-* ယ on (Shift+y), ရ on y key   
-* လ on l key, ဠ on (Shift+l) key ... 
+* က on <kbd> k </kbd> key, ခ on K ( <kbd> shift </kbd> + <kbd> k </kbd> ) key  
+* ဂ on <kbd> g </kbd> key, ဃ on G ( <kbd> Shift </kbd> + <kbd> g </kbd> ) key  
+* စ on <kbd> s </kbd> key, ဆ on S ( <kbd> Shift </kbd> + <kbd> s </kbd> ) key  
+* ဇ on <kbd> z </kbd> key, ဈ on  Z ( <kbd> Shift </kbd> + <kbd> z </kbd> ) key  
+* ဒ on <kbd> d </kbd> key, ဓ on D ( <kbd> Shift </kbd> + <kbd> d </kbd> ) key  
+* န on <kbd> n </kbd> key, ဏ on N ( <kbd> Shift </kbd> + <kbd> n </kbd>) key  
+* ပ on <kbd> p </kbd> key, ဖ on P ( <kbd> Shift </kbd> + <kbd> p </kbd> ) key  
+* ဗ on B ( <kbd> Shift </kbd> + <kbd> b </kbd>)key, ဘ on <kbd> b </kbd> key  
+* မ on <kbd> m </kbd> key  
+* ယ on ( <kbd> Shift </kbd> + <kbd> y </kbd>), ရ on <kbd> y </kbd> key   
+* လ on <kbd> l </kbd> key, ဠ on ( <kbd> Shift </kbd> + <kbd> l </kbd> ) key ... 
 
 Now, finished key mapping for almost all of the Myanmar consonant, right?  
 However, there are 33 Myanmar consonants and 26 keys of English is not enough for mapping all Myanmar consonants. Moreover, some Myanmar consonants have same or similar pronunciation such as တ (ta) and သ (tha), ဒ (da), ဓ (da), ဋ (ta), ဍ (da) and ဎ (da), ထ (hta) and ဌ (hta). And thus, some Myanmar characters are mapped on English keys who pronunciations are totally different with Myanmar such as ည (nya) is mapping on q, ဋ (ta) is mapping on  v, ဌ is mapping on X, ဍ is mapping on V and ဦ is mapping on M.
