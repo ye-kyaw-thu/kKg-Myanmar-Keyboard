@@ -29,7 +29,7 @@ However, there are 33 Myanmar consonants and 26 keys of English is not enough fo
 One more concept that I applied is key mapping based on similar shape of characters.  
 For examples:  
 
-Myanmar consonant "င" (Nga) is mapping to English small c, <kbd> c <kbd> key
+Myanmar consonant "င" (Nga) is mapping to English small c, <kbd> c </kbd> key
 Myanmar  ့ (sign dot below) and ံ (sign anusvara) are mapping on full stop <kbd> . </kbd> key  
 Myanmar consonant sign medial ya " ျ " is mapping to small j, <kbd> j </kbd> key  
 
