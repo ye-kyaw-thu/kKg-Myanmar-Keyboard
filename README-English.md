@@ -26,6 +26,18 @@ My idea is mapping Myanmar characters on English QWERTY keyboard based on their 
 Now, finished key mapping for almost all of the Myanmar consonant, right?  
 However, there are 33 Myanmar consonants and 26 keys of English is not enough for mapping all Myanmar consonants. Moreover, some Myanmar consonants have same or similar pronunciation such as တ (ta) and သ (tha), ဒ (da), ဓ (da), ဋ (ta), ဍ (da) and ဎ (da), ထ (hta) and ဌ (hta). And thus, some Myanmar characters are mapped on English keys who pronunciations are totally different with Myanmar such as ည (nya) is mapping on q, ဋ (ta) is mapping on  v, ဌ is mapping on X, ဍ is mapping on V and ဦ is mapping on M.
 
+One more concept that I applied is key mapping based on similar shape of characters.  
+For examples:  
+
+Myanmar consonant "င" (Nga) is mapping to English "c" (small c)    
+Myanmar  ့ (sign dot below) and ံ (sign anusvara) are mapping on . (full stop) key  
+Myanmar consonant sign medial ya " ျ " is mapping to "j" key  
+
+Some character mappings are based on similarity of usage between Myanmar and English.  
+For example:  
+
+Myanmar sign little section "၊" is mapping on English "," (comma) key  
+
 
 ဒါ့ကြောင့် တချို့ မြန်မာဗျည်းတွေက အသံထွက်မတူတဲ့ အင်္ဂလိပ်ကီးမှာ နေရာချထားရတာမျိုး ရှိပါတယ်။ ဥပမာအနေနဲ့ အထက်မှာတင်ပြခဲ့တဲ့အတိုင်း နငယ်စာလုံး ကို n ကီးမှာ၊ ဏကြီးစာလုံးကို N (Shift+n) မှာနေရာချထားသားပြီးဖြစ်နေလို့၊ ညဗျည်း (nya) ကို အင်္ဂလိပ်စာလုံး q ကီးမှာ နေရာချထားတဲ့ ကိစ္စမျိုးပါ။
 သို့သော် ဖြစ်နိုင်သ၍ မှတ်ရလွယ်ကူအောင် နေရာချထားပါတယ်။
@@ -35,11 +47,7 @@ However, there are 33 Myanmar consonants and 26 keys of English is not enough fo
 ဗျည်း ဝလုံးကို အင်္ဂလိပ်စာလုံး w ကီးနေရာမှာချထားသောကြောင့်၊ ွ (ဝဆွဲ) စာလုံးကို W (Shift+w) နေရာမှာချထားတာမျိုးပါ။  
 
 kKg ကီးဘုတ်မှာ အသံထွက်ပေါ်အခြေခံပြီး နေရာချတဲ့ အယူအဆအပြင်၊ နောက်ထပ် အယူအဆတခုက မြန်မာစာလုံးတွေရဲ့ စာလုံးပုံသဏ္ဍန်နဲ့ အင်္ဂလိပ်စာ စာလုံးပုံစံတွေရဲ့ဆင်တူမှု၊ အသုံးပြုမှုနဲ့ နီးစပ်တဲ့အပေါ်ကို အခြေခံတာပါ။
-ဥပမာ။ ။  
-မြန်မာဗျည်း င ကို အင်္ဂလိပ်စာလုံး c (small c) ကီးမှာ နေရာချထားတာမျိုး၊    
-မြန်မာစာလုံး ့ နဲ့ ံ ကို အင်္ဂလိပ်စာလုံး . (full stop) ကီးမှာ နေရာချထားတာမျိုး၊  
-မြန်မာစာလုံး ၊ (ပုဒ်မ)ကို အင်္ဂလိပ်စာလုံး , (comma) ကီးမှာ နေရာချထားတာမျိုး၊  
-မြန်မာစာလုံး ျ (ယပင်း)ကို အင်္ဂလိပ်စာလုံး j (small j) ကီးမှာ နေရာချထားတာမျိုးပါ။  
+
 
 နောက်ပြီးတော့ မြန်မာစာလုံးတစ်လုံးကို shift ကီးနဲ့ရိုက်တဲ့နေရာမှာထားမှာလား၊ shift ကီးမပါပဲရိုက်တဲ့နေရာမှာထားမှလဲ ဆိုတာကလည်း ကီးဘုတ်လက်ကွက်နေရာချတဲ့အခါမှာ အရမ်းကိုအရေးကြီးပါတယ်။  
 
