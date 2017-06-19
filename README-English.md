@@ -24,7 +24,7 @@ My idea is mapping Myanmar characters on English QWERTY keyboard based on their 
 * လ on l key, ဠ on (Shift+l) key ... 
 
 Now, finished key mapping for almost all of the Myanmar consonant, right?  
-However, there are 33 Myanmar consonants and 26 keys of English is not enough. Moreover, some Myanmar consonants have similar pronunciation such as တ (ta), ထ (hta), သ (tha), and ဒ (da), ဓ (da), ဋ (ta), ဍ (da), ဎ (da). And thus, some Myanmar characters are mapped on English keys who pronunciations are totally different with Myanmar such as ည is mapping on q, ဋ is mapping on  v, ဌ is mapping on X, ဍ is mapping on V and ဦ is mapping on M.
+However, there are 33 Myanmar consonants and 26 keys of English is not enough for mapping all Myanmar consonants. Moreover, some Myanmar consonants have same or similar pronunciation such as တ (ta) and သ (tha), ဒ (da), ဓ (da), ဋ (ta), ဍ (da) and ဎ (da), ထ (hta) and ဌ (hta). And thus, some Myanmar characters are mapped on English keys who pronunciations are totally different with Myanmar such as ည (nya) is mapping on q, ဋ (ta) is mapping on  v, ဌ is mapping on X, ဍ is mapping on V and ဦ is mapping on M.
 
 
 ဒါ့ကြောင့် တချို့ မြန်မာဗျည်းတွေက အသံထွက်မတူတဲ့ အင်္ဂလိပ်ကီးမှာ နေရာချထားရတာမျိုး ရှိပါတယ်။ ဥပမာအနေနဲ့ အထက်မှာတင်ပြခဲ့တဲ့အတိုင်း နငယ်စာလုံး ကို n ကီးမှာ၊ ဏကြီးစာလုံးကို N (Shift+n) မှာနေရာချထားသားပြီးဖြစ်နေလို့၊ ညဗျည်း (nya) ကို အင်္ဂလိပ်စာလုံး q ကီးမှာ နေရာချထားတဲ့ ကိစ္စမျိုးပါ။
