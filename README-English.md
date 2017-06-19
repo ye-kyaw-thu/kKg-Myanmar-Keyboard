@@ -85,16 +85,19 @@ Installation Method (1)
 If you plan to replace default Myanmar keyboard layout with kKg. It's mean you can see only kKg keyboard in your Text Entry Settings.    
 Note: You can return back to default Myanmar keyboard when you need.
 
- 1. kkg ဖိုင်ကို ...
- 2. /bla/bla/bla
- 3. [3 character country code](http://www.loc.gov/standards/iso639-2/php/English_list.php)
- 4. 
- 5. 
+ 1. First move to xkb/symbols directory:   
+   cd /usr/share/X11/xkb/symbols/  
+   
+ 2. Change filename (default Myanmar symbols file) "mm" to "mm.default":  
+    sudo mv ./mm ./mm.default  
+    
+ 3. Copy [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) file into /usr/share/X11/xkb/symbols/ directory as "mm":  
+    sudo cp ~/your-download-path/kkg ./mm   
 
-Installation လုပ်နည်းအမှတ်(၂)
-kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ်လက်ကွက်အသစ်တခုအနေနဲ့ ထည့်ချင်တယ် ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။
+Installation Method (2)
+If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
 
- 1. kkg ဖိုင်ကို ...
+ 1. kkg
  2. /bla/bla/bla
  3. 
  4. 
