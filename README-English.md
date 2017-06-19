@@ -93,6 +93,13 @@ Note: You can return back to default Myanmar keyboard when you need.
     
  3. Copy [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) file into /usr/share/X11/xkb/symbols/ directory as "mm":  
     sudo cp ~/your-download-path/kkg ./mm   
+    
+ 4. Click the input method icon (top right corner of X Windows Desktop), select "Text Entry Settings..." menu and click "+" button and then select "Burmese" as shown in following figure:  
+ 
+ ![choose-input-source-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/choose-input-source.png)
+ 
+ Or  
+ You can also go from "System Setting", "Text Entry" and click "+" for adding/selecting a keyboard layout.
 
 Installation Method (2)  
 If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
