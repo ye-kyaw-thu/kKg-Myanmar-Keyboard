@@ -81,7 +81,7 @@ kKg keyboard is not only for Linux OS and I plan to upload installer for Windows
 
 ## Installation kKg on Ubuntu OS  
 
-Installation Method (1)
+### Installation Method (1)  
 If you plan to replace default Myanmar keyboard layout with kKg. It's mean you can see only kKg keyboard in your Text Entry Settings.    
 Note: You can return back to default Myanmar keyboard when you need.
 
@@ -101,7 +101,7 @@ Note: You can return back to default Myanmar keyboard when you need.
  Or  
  You can also go from "System Setting", "Text Entry" and click "+" for adding/selecting a keyboard layout.
 
-Installation Method (2)  
+### Installation Method (2)  
 If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
 
  1. kkg
