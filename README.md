@@ -93,7 +93,32 @@ kKg ကီးဘုတ်လက်ကွက်က Linux OS တွေပေါ်
 အကြမ်းမျဉ်းအားဖြင့် Installation လုပ်နည်း ၂မျိုးရှိပါတယ်။ ဘယ်နည်းမဆို လက်ရှိရှိပြီးသား default mm (မြန်မာဘာသာ) ကီးဘုတ်လက်ကွက်ကို မဖျက်ပစ်ပါဘူး။ X windows ရဲ့ GUI Setup Menu ဖြစ်တဲ့ Text Entry Settings ရဲ့ Choose an input source ဆိုတဲ့ dialogue box မှာ မြန်မာစာကီးဘုတ်လက်ကွက်အနေနဲ့ ၂ခုပေါ်ချင်သလား၊ ၁ခုတည်းပဲ ပေါ်မလားဆိုတာပဲ ကွာသွားမှာပါ။ လက်ရှိသုံးနေတဲ့ Ubuntu OS ရဲ့ ဗားရှင်း (သို့) X Windows Desktop အမျိုးအစားအပေါ်မူတည်ပြီး လုပ်ရတာမှာ အဆင်မပြေတာမျိုးတွေရှိတတ်လို့၊ Linux OSနဲ့ သိပ်အကျွမ်းတဝင် မရှိသေးတဲ့ အသုံးပြုသူများအတွက် Installation နည်း ၂ မျိုးအနေနဲ့ ဖော်ပြပေးထားတာပါ။ 
 
 Installation လုပ်နည်းအမှတ်(၁)
-kKg လက်ကွက်ကို လက်ရှိ ရှိပြီးသား default မြန်မာစာ ကီးဘုတ်လက်ကွက်နေရာမှာ အစားထိုးမယ်ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။
+kKg လက်ကွက်ကို လက်ရှိ ရှိပြီးသား default မြန်မာစာ ကီးဘုတ်လက်ကွက်နေရာမှာ အစားထိုးမယ်ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။ ဒီ insallation နည်းနဲ့ လုပ်လျှင်၊ Text Entry Settings ကနေ ကီးဘုတ်ကို ရွေးတဲ့အခါ Burmese ဆိုတဲ့ Ubuntu OS ရဲ့ default name အနေနဲ့မြင်ရပါလိမ့်မယ်။
+
+ 1. ပထမဆုံး xkb/symbols ဖိုလ်ဒါ ရှိတဲ့ နေရာကို ရွှေ့ရအောင်  
+   cd /usr/share/X11/xkb/symbols/  
+   
+ 2. လက်ရှိရှိနေတဲ့ မြန်မာစာ ကီးဘုတ်လက်ကွက် ဖိုင် mm ကို mm.default ဆိုတဲ့ နာမည်ကို ပြောင်းပါ။  (တနည်းအားဖြင့်ပြောရရင်၊ မဖျက်ပါနဲ့)
+    sudo mv ./mm ./mm.default  
+    
+ 3. GitHub ကနေ ကိုယ်ဒေါင်းလုပ်လုပ်ထားတဲ့ path အောက်မှာရှိတဲ့ [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) ဖိုင်ကို /usr/share/X11/xkb/symbols/ ဖိုလ်ဒါအောက်မှာ mm ဆိုတဲ့ နာမည်နဲ့ သိမ်းပါ။  
+    sudo cp ~/your-download-path/kkg ./mm   
+    
+ 4. X Windows screen ရဲ့ အပေါ်ဆုံး ညာဖက်ဒေါင့်မှာရှိတဲ့ စာရိုက်နည်းတွေကို ရွေးရတဲ့ icon ကို ကလစ်လုပ်ပြီး၊ menu ရဲ့အောက်ဆုံးမှာ ရှိတဲ့ Text Entry Settings... ကို ရွေးပါ။ ပြီးရင် "+" button ကိုနှိပ်ပြီး အောက်မှာဖော်ပြထားတဲ့ အတိုင်း "Burmese" ဆိုတာကို ရွေးပါ။  ယခုလုပ်ခဲ့တဲ့ အဆင့်နံပါတ် ၄ က မြန်မာစာ စာရိုက်နည်း "Burmese" ကိုလည်း ကိုယ်သုံးနေတဲ့ X Windows မှာ သုံးချင်တဲ့ အခါမှာ ရွေးသုံးလို့ရအောင် input method တစ်ခုအနေနဲ့ ထည့်သွင်းထားခဲ့တာပါ။  
+ 
+ ![choose-input-source-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/choose-input-source.png)
+ 
+နံပါတ် ၄ အဆင့်ကို အထက်ပါ ဖော်ပြထားခဲ့တဲ့ နည်းအပြင်၊ Ubuntu OS ရဲ့ "System Setting" ကနေလည်းသွားလို့ရပါတယ်။ အဲဒီလိုသွားမယ်ဆိုရင်တော့၊ "System Setting" menu ကနေ "Text Entry" ကိုရွေးပါ ပြီးတော့ "+" button ကို နှိပ်ပြီး "Burmese" ကိုရွေးပါ။  
+ 
+ 5. After you added "Burmese" keyboard layout, you can change your current input method or keyboard layout to "Burmese" by clicking text input method icon (top right corner of X Windows Desktop) as shown in the following figure or pressing "Super+Space Bar" (you might need to press 2/3 times, it is depends on how many text input method are you using on your X Windows).  
+ 
+ ![text-input-method-icon](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/text-input-method-icon.png)  
+ 
+ In the above figure, Ja is indicating that current keyboard layout is using "Japanese".  
+ 
+ *If you want to switch back to Ubuntu default Myanmar keyboard layout, change filename mm.default to mm.*
+
+
 
  1. kkg ဖိုင်ကို ...
  2. /bla/bla/bla
