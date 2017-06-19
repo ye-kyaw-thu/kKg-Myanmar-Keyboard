@@ -24,19 +24,19 @@ My idea is mapping Myanmar characters on English QWERTY keyboard based on their 
 * လ on <kbd> l </kbd> key, ဠ on ( <kbd> Shift </kbd> + <kbd> l </kbd> ) key ... 
 
 Now, finished key mapping for almost all of the Myanmar consonant, right?  
-However, there are 33 Myanmar consonants and 26 keys of English is not enough for mapping all Myanmar consonants. Moreover, some Myanmar consonants have same or similar pronunciation such as တ (ta) and သ (tha), ဒ (da), ဓ (da), ဋ (ta), ဍ (da) and ဎ (da), ထ (hta) and ဌ (hta). And thus, some Myanmar characters are mapped on English keys who pronunciations are totally different with Myanmar such as ည (nya) is mapping on q, ဋ (ta) is mapping on  v, ဌ is mapping on X, ဍ is mapping on V and ဦ is mapping on M.
+However, there are 33 Myanmar consonants and 26 keys of English is not enough for mapping all Myanmar consonants. Moreover, some Myanmar consonants have same or similar pronunciation such as တ (ta) and သ (tha), ဒ (da), ဓ (da), ဋ (ta), ဍ (da) and ဎ (da), ထ (hta) and ဌ (hta). And thus, some Myanmar characters are mapped on English keys who pronunciations are totally different with Myanmar such as ည (nya) is mapping on <kbd> q </kbd>, ဋ (ta) is mapping on <kbd> v </kbd>, ဌ is mapping on capital X ( <kbd> Shift </kbd> + <kbd> x </kbd> ), ဍ is mapping on capital v ( <kbd> Shift </kbd> + <kbd> v </kbd> ) and ဦ is mapping on capital m ( <kbd> Shift </kbd> + <kbd> m </kbd> ).
 
 One more concept that I applied is key mapping based on similar shape of characters.  
 For examples:  
 
-Myanmar consonant "င" (Nga) is mapping to English "c" (small c)    
-Myanmar  ့ (sign dot below) and ံ (sign anusvara) are mapping on . (full stop) key  
-Myanmar consonant sign medial ya " ျ " is mapping to "j" key  
+Myanmar consonant "င" (Nga) is mapping to English small c, <kbd> c <kbd> key
+Myanmar  ့ (sign dot below) and ံ (sign anusvara) are mapping on full stop <kbd> . </kbd> key  
+Myanmar consonant sign medial ya " ျ " is mapping to small j, <kbd> j </kbd> key  
 
 Some character mappings are based on similarity of usage between Myanmar and English.  
 For example:  
 
-Myanmar sign little section "၊" is mapping on English "," (comma) key  
+Myanmar sign little section "၊" is mapping on English comma <kbd> , </kbd> key  
 
 Based on above concepts, the following is the kKg keyboard mapping according to Myanmar characters order:
 
