@@ -99,7 +99,13 @@ Note: You can return back to default Myanmar keyboard when you need.
  ![choose-input-source-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/choose-input-source.png)
  
  Or  
- You can also go from "System Setting", "Text Entry" and click "+" for adding/selecting a keyboard layout.
+ You can also go from "System Setting", "Text Entry" and click "+" for adding/selecting a keyboard layout.  
+ 
+ 5. After you added "Burmese" keyboard layout, you can change your current input method or keyboard layout to "Burmese" by clicking text input method icon as shown in the following figure or pressing "Super+Space Bar" (you might need to press 2/3 times, it is depends on how many text input method are you using on your X Windows).  
+ 
+ 
+ 
+ 
 
 ### Installation Method (2)  
 If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
