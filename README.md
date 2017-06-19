@@ -13,12 +13,12 @@ kKg ကီးဘုတ် ခလုပ်နေရာချပုံ (keyboard l
 အင်္ဂလိပ်ကီးဘုတ် ရိုက်နေကြသူများက အကျွမ်းတဝင် ရှိပြီးသားဖြစ်တဲ့ Shift ကီးနဲ့တွဲပြီး အင်္ဂလိပ်စာလုံး အသေး၊ အကြီး ပြောင်းတဲ့ပုံစံကိုလဲ အသုံးပြုထားပါတယ်။
 အဲဒီ အချက် ၂ချက်အပေါ်ကို အခြေခံထားပြီးတော့
 
-* က ကို <kbd> k </kbd> ကီး၊ ခ ကို K ( <kbd> shift </kbd> + <kbd> k </kbd>) ကီး။  
-* ဂ ကို <kbd> g </kbd> ကီး၊ ဃ ကို G ( <kbd> Shift </kbd> + <kbd> g </kbd>) ကီး။  
-* စ ကို <kbd> s </kbd>ကီး၊ ဆ ကို S ( <kbd> Shift </kbd> + <kbd> s </kbd>) ကီး။  
-* ဇ ကို <kbd> z </kbd> ကီး၊ ဈ ကို  Z ( <kbd> Shift </kbd> + <kbd> z </kbd>) ကီး။  
-* ဒ ကို <kbd> d </kbd> ကီး၊ ဓ ကို D ( <kbd> Shift </kbd> + <kbd> d </kbd>) ကီး။  
-* န ကို <kbd> n </kbd> ကီး၊ ဏ ကို N ( <kbd> Shift </kbd> + <kbd> n </kbd>) ကီး။  
+* က ကို <kbd> k </kbd> ကီး၊ ခ ကို K ( <kbd> shift </kbd> + <kbd> k </kbd> ) ကီး။  
+* ဂ ကို <kbd> g </kbd> ကီး၊ ဃ ကို G ( <kbd> Shift </kbd> + <kbd> g </kbd> ) ကီး။  
+* စ ကို <kbd> s </kbd>ကီး၊ ဆ ကို S ( <kbd> Shift </kbd> + <kbd> s </kbd> ) ကီး။  
+* ဇ ကို <kbd> z </kbd> ကီး၊ ဈ ကို  Z ( <kbd> Shift </kbd> + <kbd> z </kbd> ) ကီး။  
+* ဒ ကို <kbd> d </kbd> ကီး၊ ဓ ကို D ( <kbd> Shift </kbd> + <kbd> d </kbd> ) ကီး။  
+* န ကို <kbd> n </kbd> ကီး၊ ဏ ကို N ( <kbd> Shift </kbd> + <kbd> n </kbd> ) ကီး။  
 * ပ ကို <kbd> p </kbd> ကီး၊ ဖ ကို P ( <kbd> Shift </kbd> + <kbd> p </kbd>) ကီး။  
 * ဗ ကို B ( <kbd> Shift </kbd> + <kbd> b </kbd> )ကီး၊ ဘ ကို <kbd> b </kbd> ကီး။  
 * မ ကို <kbd> m </kbd> ကီး။  
