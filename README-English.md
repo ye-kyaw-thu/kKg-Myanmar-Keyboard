@@ -103,8 +103,9 @@ Note: You can return back to default Myanmar keyboard when you need.
  
  5. After you added "Burmese" keyboard layout, you can change your current input method or keyboard layout to "Burmese" by clicking text input method icon as shown in the following figure or pressing "Super+Space Bar" (you might need to press 2/3 times, it is depends on how many text input method are you using on your X Windows).  
  
+ ![text-input-method-icon](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/text-input-method-icon.png)  
  
- 
+ In the above figure, Ja is indicating that my current keyboard layout is using "Japanese".  
  
 
 ### Installation Method (2)  
