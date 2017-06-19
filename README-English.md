@@ -75,7 +75,7 @@ For stacked (PadSint) characters:
 
 "က" + " ္ " + "က" for "က္က"  
 
-# Installation လုပ်ပုံလုပ်နည်း
+# Installation  
 
 kKg keyboard is not only for Linux OS and I plan to upload installer for Windows after testing on two/three Windows OS. Please wait for a while.  
 
