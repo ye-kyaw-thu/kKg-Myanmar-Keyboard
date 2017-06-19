@@ -105,7 +105,7 @@ Note: You can return back to default Myanmar keyboard when you need.
  
  ![text-input-method-icon](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/text-input-method-icon.png)  
  
- In the above figure, Ja is indicating that my current keyboard layout is using "Japanese".  
+ In the above figure, Ja is indicating that current keyboard layout is using "Japanese".  
  
  *If you want to switch back to Ubuntu default Myanmar keyboard layout, change filename mm.default to mm.*
 
