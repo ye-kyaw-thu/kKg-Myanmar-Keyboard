@@ -64,12 +64,16 @@ I think now you can guess the name of kKg is representing frst three Myanmar con
 
 ![kKg Keyboard Layout Version.1](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kKg-Keyboard-Layout-Ver1.png)
 
-စာရိုက်နည်း (သို့) ရိုက်ရတဲ့အစီအစဉ်က လက်ရှိ Unicode ကီးဘုတ်တွေရဲ့ ရိုက်နည်းနဲ့ အတူတူပါပဲ။  
-ဥပမာ။ ။
-* ကေဆိုတဲ့ ဗျည်းတွဲကိုရိုက်မယ်ဆိုရင် က ကိုအရင်ရိုက်ပြီးမှ ေ ကိုရိုက်ပါ။  
-* ကုံ ကိုရိုက်မယ်ဆိုရင် က + ု + ံ (ku>) အစီအစဉ်အတိုင်း ရိုက်ရပါမယ်။
-* ပါဌ်ဆင့် က္က (ကကြီး နှစ်လုံးဆင့်) ကို ရိုက်မယ်ဆိုရင် က + ္ + က (kFk) အစီအစဉ်အတိုင်း ရိုက်ရပါမယ်။
+Typing orders are same with other Myanmar Unicode Keyboard layouts such as Myanmar3 keyboard layout.  
+First you have to type Myanmar consonant and follow by other vowels.  
+For example:  
 
+"က" + " ေ " for "ကေ"  
+"က" + " ု "  + " ံ " for "ကုံ"  
+
+For stacked (PadSint) characters:  
+
+"က" + " ္ " + "က" for "က္က"  
 
 # Installation လုပ်ပုံလုပ်နည်း
 
