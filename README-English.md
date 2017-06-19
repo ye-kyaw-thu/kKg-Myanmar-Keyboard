@@ -24,11 +24,9 @@ My idea is mapping Myanmar characters on English QWERTY keyboard based on their 
 * လ on l key, ဠ on (Shift+l) key ... 
 
 Now, finished key mapping for almost all of the Myanmar consonant, right?  
+However, there are 33 Myanmar consonants and 26 keys of English is not enough. Moreover, some Myanmar consonants have similar pronunciation such as တ (ta), ထ (hta), သ (tha), and ဒ (da), ဓ (da), ဋ (ta), ဍ (da), ဎ (da). And thus, some Myanmar characters are mapped on English keys who pronunciations are totally different with Myanmar such as ည is mapping on q, ဋ is mapping on  v, ဌ is mapping on X, ဍ is mapping on V and ဦ is mapping on M.
 
-In practically, there are 33 Myanmar consonants and 26 keys of English is not enough. Moreover, some Myanmar consonants have similar pronunciation such as တ, ထ, သ, and ဒ, ဓ, ဋ, ဍ, ဎ.
 
-ဒါပေမဲ့ တချို့သော မြန်မာစာလုံးတွေက အသံထွက်ဆင်တူတဲ့ အတွက်ကြောင့် (ဥပမာ ) အင်္ဂလိပ်ကီးဘုတ်ရဲ့ ကီးတွေနဲ့က မလောက်ပါဘူး။
-ထို့အပြင် မြန်မာ ဗျည်းစာလုံးအရေအတွက်က စုစုပေါင်း ၃၃လုံးရှိပြီး၊ အင်္ဂလိပ်စာလုံး စုစုပေါင်းအရေအတွက်က စုစုပေါင်း၂၆လုံး ဆိုတော့  မြန်မာဗျည်းစာလုံးအားလုံးကို အသံထွက်ပေါ်အခြေခံပြီး နေရာချလို့ မဖြစ်နိုင်ပါ။
 ဒါ့ကြောင့် တချို့ မြန်မာဗျည်းတွေက အသံထွက်မတူတဲ့ အင်္ဂလိပ်ကီးမှာ နေရာချထားရတာမျိုး ရှိပါတယ်။ ဥပမာအနေနဲ့ အထက်မှာတင်ပြခဲ့တဲ့အတိုင်း နငယ်စာလုံး ကို n ကီးမှာ၊ ဏကြီးစာလုံးကို N (Shift+n) မှာနေရာချထားသားပြီးဖြစ်နေလို့၊ ညဗျည်း (nya) ကို အင်္ဂလိပ်စာလုံး q ကီးမှာ နေရာချထားတဲ့ ကိစ္စမျိုးပါ။
 သို့သော် ဖြစ်နိုင်သ၍ မှတ်ရလွယ်ကူအောင် နေရာချထားပါတယ်။
 ဥပမာ။ ။
@@ -55,7 +53,7 @@ kKg ကီးဘုတ်ရဲ့ ကီးနေရာချထားပုံ
    | က<br>k | ခ<br>K | ဂ<br>g | ဃ<br>G | င<br>c |
    | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
    | စ<br>**s** | ဆ<br>**S** |ဇ<br>**z**  |ဈ<br>**Z**  |ည<br>**q** |
-   | ဋ<br>**v** | ဌ<br>**X** |ဍ<br>**V**  |ဎ<br>**?**  |ဏ<br>**N** |
+   | ဋ<br>**v** | ဌ<br>**X** |ဍ<br>**V**  |ဎ<br>**~**  |ဏ<br>**N** |
    | တ<br>**T** | ထ<br>**x** |ဒ<br>**d**  |ဓ<br>**D**  |န<br>**n** |
    | ပ<br>**p** | ဖ<br>**P** |ဗ<br>**B**  |ဘ<br>**b**  |မ<br>**m** |
    | ယ<br>**Y** | ရ<br>**y** | လ<br>**l** | ဝ<br>**w**  | သ<br>**t** |
