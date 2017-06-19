@@ -82,7 +82,7 @@ kKg keyboard is not only for Linux OS and I plan to upload installer for Windows
 ## Installation kKg on Ubuntu OS  
 
 ### Installation Method (1)  
-If you plan to replace default Myanmar keyboard layout with kKg. It's mean you can see only kKg keyboard in your Text Entry Settings.    
+If you plan to replace default Myanmar keyboard layout with kKg. It's mean you can see only kKg keyboard layout with the default name "Burmese" in your Text Entry Settings.    
 Note: You can return back to default Myanmar keyboard when you need.
 
  1. First move to xkb/symbols directory:   
@@ -101,12 +101,13 @@ Note: You can return back to default Myanmar keyboard when you need.
  Or  
  You can also go from "System Setting", "Text Entry" and click "+" for adding/selecting a keyboard layout.  
  
- 5. After you added "Burmese" keyboard layout, you can change your current input method or keyboard layout to "Burmese" by clicking text input method icon as shown in the following figure or pressing "Super+Space Bar" (you might need to press 2/3 times, it is depends on how many text input method are you using on your X Windows).  
+ 5. After you added "Burmese" keyboard layout, you can change your current input method or keyboard layout to "Burmese" by clicking text input method icon (top right corner of X Windows Desktop) as shown in the following figure or pressing "Super+Space Bar" (you might need to press 2/3 times, it is depends on how many text input method are you using on your X Windows).  
  
  ![text-input-method-icon](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/text-input-method-icon.png)  
  
  In the above figure, Ja is indicating that my current keyboard layout is using "Japanese".  
  
+ *If you want to switch back to Ubuntu default Myanmar keyboard layout, change filename mm.default to mm.*
 
 ### Installation Method (2)  
 If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
