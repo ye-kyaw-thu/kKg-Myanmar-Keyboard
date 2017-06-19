@@ -77,9 +77,9 @@ For stacked (PadSint) characters:
 
 # Installation လုပ်ပုံလုပ်နည်း
 
-kKg ကီးဘုတ်လက်ကွက်က Linux OS တွေပေါ်မှာပဲသုံးဖို့ ရည်ရွယ်ထားတာမဟုတ်ပါဘူး။ ကျွန်တော့်မှာ Windows OS အဟောင်းတွေအတွက် Installer လုပ်ထားခဲ့တာတွေရှိပါတယ်။ အချိန်ရတဲ့အခါ လက်ရှိ Windows OS တွေအတွက် ပြင်ဆင်ပြီး တင်ပေးနိုင်အောင် ကြိုးစားပါမယ်။ လက်ရှိတော့ Linux OS ပေါ်မှာ ဘယ်လို install လုပ်ရမလဲဆိုတာကိုရေးပါမယ်။
+kKg keyboard is not only for Linux OS and I plan to upload installer for Windows after testng on two/three Windows OS. Please wait for a while.  
 
-## Ubuntu OS အတွက် Installation
+## Installation kKg on Ubuntu OS  
 
 အကြမ်းမျဉ်းအားဖြင့် Installation လုပ်နည်း ၂မျိုးရှိပါတယ်။ ဘယ်နည်းမဆို လက်ရှိရှိပြီးသား default mm (မြန်မာဘာသာ) ကီးဘုတ်လက်ကွက်ကို မဖျက်ပစ်ပါဘူး။ X windows ရဲ့ GUI Setup Menu ဖြစ်တဲ့ Text Entry Settings ရဲ့ Choose an input source ဆိုတဲ့ dialogue box မှာ မြန်မာစာကီးဘုတ်လက်ကွက်အနေနဲ့ ၂ခုပေါ်ချင်သလား၊ ၁ခုတည်းပဲ ပေါ်မလားဆိုတာပဲ ကွာသွားမှာပါ။ လက်ရှိသုံးနေတဲ့ Ubuntu OS ရဲ့ ဗားရှင်း (သို့) X Windows Desktop အမျိုးအစားအပေါ်မူတည်ပြီး လုပ်ရတာမှာ အဆင်မပြေတာမျိုးတွေရှိတတ်လို့၊ Linux OSနဲ့ သိပ်အကျွမ်းတဝင် မရှိသေးတဲ့ အသုံးပြုသူများအတွက် Installation နည်း ၂ မျိုးအနေနဲ့ ဖော်ပြပေးထားတာပါ။ 
 
