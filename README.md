@@ -325,7 +325,7 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
    * symbol ဖိုင်အသစ်တခု ပြင်ဆင်ပြီးသွားလို့ ကီးဘုတ်ကို update လုပ်မယ်ဆိုရင်  
    $ sudo dpkg-reconfigure xkb-data
   
-# ရည်ရွယ်ထားသော to do list
+# ရည်ရွယ်ထားသော to-do list
 * Prepare brief (mainly explanation on kKg keyboard mapping) README file in English version.
 * Preparing kKg keyboard for Windows OS
 * Making user-study in details (although I am busy... I wish to do when I get a chance)
