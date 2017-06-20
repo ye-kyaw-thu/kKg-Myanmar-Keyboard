@@ -118,11 +118,11 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
  5. 
 
 # First Myanmar Text Typing with kKg Keyboard  
-* If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to see keyboard layout and try to catch up the concept of kKg keyboard design. I assumed that you already know the pronunciation of Myanmar consonants and vowels. If you don't know pronunciation of Myanmar characters, refer [Unicode chart](http://www.unicode.org/charts/PDF/U1000.pdf) and [Romanization Table](https://www.loc.gov/catdir/cpso/romanization/burmese.pdf). Generally, you can guess the keys for Myanmar characters based on their pronunciations such as "က" (Ka Gyi) on <kbd> k </kbd> key, "ခ" (Kha Khway) also on <kbd> k </kbd> key  but the point is you have to practise for "unshifted" and "shift" assignments. As a first step, I do suggest you to start practise typing Myanmar consonants according to their alphabetical order (i.e. "က" (Ka) to "အ" (A)). If you want to start typing Myanmar words and sentences quickly, you can skip some Myanmar consonants that rarely used in daily communication such as "ဋ", "ဍ", ဎ and "ဠ".   
+If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to see keyboard layout and try to catch up the concept of kKg keyboard design. I assumed that you already know the pronunciation of Myanmar consonants and vowels. If you don't know pronunciation of Myanmar characters, refer [Unicode chart](http://www.unicode.org/charts/PDF/U1000.pdf) and [Romanization Table](https://www.loc.gov/catdir/cpso/romanization/burmese.pdf). Generally, you can guess the keys for Myanmar characters based on their pronunciations such as "က" (Ka Gyi) on <kbd> k </kbd> key, "ခ" (Kha Khway) also on <kbd> k </kbd> key  but the point is you have to practise for "unshifted" and "shift" assignments. As a first step, I do suggest you to start practise typing Myanmar consonants according to their alphabetical order (i.e. "က" (Ka) to "အ" (A)). If you want to start typing Myanmar words and sentences quickly, you can skip some Myanmar consonants that rarely used in daily communication such as "ဋ", "ဍ", ဎ and "ဠ".   
 
   Similarly, you also have to practise for key mappings of Myanmar vowels based on their ponunciation order (i.e. A, AA, I, II, U, UU, E, AI, O, AU, EN, ARR or အ၊ ာ၊ ိ၊ ီ၊ ု၊ ူ၊ ေ၊ ဲ၊ ော့၊ ော်၊ ံ၊ ား). Although I haven't made formal user study, I roughly did a kind of user study on kKg keyboard layout with some of my friends and I found that they can start typing Myanmar words and sentences with appropriate speed after practising around 30 minutes. The following is the procedure of typing practise that I used:
    
-* Frequently used Myanmar consonants  
+1. Frequently used Myanmar consonants  
    ```
    က   ခ   ဂ   ဃ   င
    စ   ဆ   ဇ   ဈ   ည
@@ -134,12 +134,12 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
       
     ဝ   ထ   က   လ   သ
   ```
- * Myanmar vowels  
+ 2. Myanmar vowels  
     ```
     ာ   ါ   ိ   ီ   ု   ူ   ေ   ဲ  ့  ်   ံ   း
     ```
     
-  * Combination of consonant and vowels  
+ 3. Combination of consonant and vowels  
   
     ```
     က ကာ ကိ ကီ ကု ကူ ကေ ကဲ ကော့ ကော် ကံ ကား
@@ -150,7 +150,7 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
     မ မာ မိ မီ မု မူ မေ မဲ မော့ မော် မံ မား
     အ အာ အိ အီ အု အူ အေ အဲ အော့ အော် အံ အား
     ```
-  * Practising " ျ ", " ြ ", " ွ ", " ှ " and some Myanmar words  
+ 4. Practising " ျ ", " ြ ", " ွ ", " ှ " and some Myanmar words  
   
     ```
     ကွ ပွ မွ လွ
@@ -165,7 +165,7 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
     မသိ တယောက် နှစ်ယောက် သုံးလေးယောက်
     ```
    
-   * Practising short Myanmar sentences together with two Myanmar symbols  "၊" (sign little section) and "။" (sign section).  
+  5. Practising short Myanmar sentences together with two Myanmar symbols  "၊" (sign little section) and "။" (sign section).  
    
      ```
      မမ ဝဝ ထထ က
@@ -181,13 +181,13 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
      နယ်မှာက၊ လူနည်းတယ်။
      ```
     
-  * Stacked words  
+  6. Stacked words  
   
      ```
      တက္ကသိုလ်၊ မိတ္တီလာ၊ ပုပ္ပါး၊ သမ္မတ၊ ပြဿနာ၊ ပစ္စည်းများ။
      ```
    
-  * နောက်ဆုံး အဆင့်အနေနဲ့ ကိုယ်ရိုက်ချင်တာ၊ ခေါင်းထဲမှာ ပေါ်လာသော မြန်မာစာကြောင်းများကို စမ်းရိုက်တာမျိုး၊ website တခုခုက မြန်မာစာကြောင်းတွေကို စမ်းရိုက်တာမျိုး လုပ်ကြည့်ပါ။
+  7. နောက်ဆုံး အဆင့်အနေနဲ့ ကိုယ်ရိုက်ချင်တာ၊ ခေါင်းထဲမှာ ပေါ်လာသော မြန်မာစာကြောင်းများကို စမ်းရိုက်တာမျိုး၊ website တခုခုက မြန်မာစာကြောင်းတွေကို စမ်းရိုက်တာမျိုး လုပ်ကြည့်ပါ။
      အစမှာ နှေးတော့ နှေးပါလိမ့်မယ်။ မှားလို့ ပြင်ရတာတွေလဲ ရှိမှာပါ။
      သို့သော် တခြားသော မြန်မာစာကီးဘုတ်လက်ကွက်တွေကို လေ့ကျင့်တာနဲ့ နှိုင်းယှဉ်ကြည့်ရင် အရမ်းကို မြန်တာတွေ့ရပါလိမ့်မယ်။
      Enjoy! kKg keyboard!
