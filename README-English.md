@@ -190,10 +190,8 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
      တက္ကသိုလ်၊ မိတ္တီလာ၊ ပုပ္ပါး၊ သမ္မတ၊ ပြဿနာ၊ ပစ္စည်းများ။
      ```
    
- 7. နောက်ဆုံး အဆင့်အနေနဲ့ ကိုယ်ရိုက်ချင်တာ၊ ခေါင်းထဲမှာ ပေါ်လာသော မြန်မာစာကြောင်းများကို စမ်းရိုက်တာမျိုး၊ website တခုခုက မြန်မာစာကြောင်းတွေကို စမ်းရိုက်တာမျိုး လုပ်ကြည့်ပါ။
-     အစမှာ နှေးတော့ နှေးပါလိမ့်မယ်။ မှားလို့ ပြင်ရတာတွေလဲ ရှိမှာပါ။
-     သို့သော် တခြားသော မြန်မာစာကီးဘုတ်လက်ကွက်တွေကို လေ့ကျင့်တာနဲ့ နှိုင်းယှဉ်ကြည့်ရင် အရမ်းကို မြန်တာတွေ့ရပါလိမ့်မယ်။
-     Enjoy! kKg keyboard!
+ 7. Finally start typing some Myanmar sentences that comes into your mind. I am sure, you will make some typing mistakes but keep practise. Eventually you’ll find out that you are typing Myanmar sentences quickly and easily.  
+Enjoy, kKg keyboard!  
 
 # To-Do list
 * Prepare brief (mainly explanation on kKg keyboard mapping) README file in English version.
