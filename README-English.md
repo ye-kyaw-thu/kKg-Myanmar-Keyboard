@@ -134,8 +134,8 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
    ဟ   အ
       
     ဝ   ထ   က   လ   သ
-  ```
-
+  ```  
+  
 2. Myanmar vowels  
 
     ```
