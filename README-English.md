@@ -199,7 +199,7 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
 
 # References
 
-When I developed kKg keyboard I mainly refered man pages of XKB configuration commands and "An Unreliable Guide to XKB Configuration". I also found there are some good references when I made revision for explanation of how I used XKB in Myanmar language and some of them are as follows:   
+When I developed kKg keyboard I mainly referred man pages of XKB configuration commands and "An Unreliable Guide to XKB Configuration". I also found there are some good references when I made revision for explanation of how I used XKB in Myanmar language and some of them are as follows:   
 
 1. [XKB Homepage: https://www.x.org/wiki/XKB/](https://www.x.org/wiki/XKB/)
 2. [An Unreliable Guide to XKB Configuration: https://www.charvolant.org/doug/xkb/html/xkb.html](https://www.charvolant.org/doug/xkb/html/xkb.html)  
