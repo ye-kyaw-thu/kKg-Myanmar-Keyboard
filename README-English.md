@@ -192,3 +192,21 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
      သို့သော် တခြားသော မြန်မာစာကီးဘုတ်လက်ကွက်တွေကို လေ့ကျင့်တာနဲ့ နှိုင်းယှဉ်ကြည့်ရင် အရမ်းကို မြန်တာတွေ့ရပါလိမ့်မယ်။
      Enjoy! kKg keyboard!
 
+# To-Do list
+* Prepare brief (mainly explanation on kKg keyboard mapping) README file in English version.
+* Preparing kKg keyboard for Windows OS
+* Making user-study in details (although I am busy... I wish to do when I get a chance)
+
+# References
+
+When I developed kKg keyboard I mainly refered man pages of XKB configuration commands and "An Unreliable Guide to XKB Configuration". I also found there are some good references when I made revision for explanation of how I used XKB in Myanmar language and some of them are as follows:   
+
+1. [XKB Homepage: https://www.x.org/wiki/XKB/](https://www.x.org/wiki/XKB/)
+2. [An Unreliable Guide to XKB Configuration: https://www.charvolant.org/doug/xkb/html/xkb.html](https://www.charvolant.org/doug/xkb/html/xkb.html)  
+3. [The X Keyboard Extension: https://www.x.org/releases/X11R7.7/doc/libX11/XKB/xkblib.html#Xkb_Implementation](https://www.x.org/releases/X11R7.7/doc/libX11/XKB/xkblib.html#Xkb_Implementation)  
+4. [Creating custom keyboard layouts for X11 using XKB: http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html](http://michal.kosmulski.org/computing/articles/custom-keyboard-layouts-xkb.html)  
+5. [Custom keyboard layout definitions: https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions](https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions)  
+6. [XkbKeyTypesForCoreSymbols (3) - Linux Man Page: https://www.systutorials.com/docs/linux/man/3-XkbKeyTypesForCoreSymbols/](https://www.systutorials.com/docs/linux/man/3-XkbKeyTypesForCoreSymbols/)
+7. [Ivan Pascal's X Keyboard Extension: http://pascal.tsu.ru/en/xkb/](http://pascal.tsu.ru/en/xkb/)
+8. [The X Keyboard Extension: Protocol Specification: https://www.x.org/docs/XKB/XKBproto.pdf](https://www.x.org/docs/XKB/XKBproto.pdf)
+9. [Extending the X Keyboard Map with XKB: http://madduck.net/docs/extending-xkb/](http://madduck.net/docs/extending-xkb/)
