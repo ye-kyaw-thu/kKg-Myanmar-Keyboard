@@ -1,4 +1,5 @@
 ### Still preparing English README file and not finished yet! Please wait!
+[README in Myanmar](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard)  
 
 # kKg-Myanmar-Keyboard
 kKg Myanmar (Unicode) Keyboard Layout that I designed for lazy users (actually, I was the 1st user :).  
