@@ -110,23 +110,13 @@ kKg လက်ကွက်ကို လက်ရှိ ရှိပြီးသ�
  
 နံပါတ် ၄ အဆင့်ကို အထက်ပါ ဖော်ပြထားခဲ့တဲ့ နည်းအပြင်၊ Ubuntu OS ရဲ့ "System Setting" ကနေလည်းသွားလို့ရပါတယ်။ အဲဒီလိုသွားမယ်ဆိုရင်တော့၊ "System Setting" menu ကနေ "Text Entry" ကိုရွေးပါ ပြီးတော့ "+" button ကို နှိပ်ပြီး "Burmese" ကိုရွေးပါ။  
  
- 5. အထက်ပါဖော်ပြခဲ့တဲ့ အဆင့်နံပါတ်(၁) ကနေ အဆင့်နံပါတ်(၄) အထိ အခက်အခဲမရှိ လုပ်ဆောင်ပြီးပြီဆိုပါက၊ နောက်ဆုံးအဆင့်အနေနဲ့ ကိုယ်ရိုက်မဲ့ ကီးဘုတ်လက်ကွက်ကို ရွေးတဲ့ အဆင့်ပဲလုပ်ဆောင်ဖို့ ကျန်ပါတော့တယ်။ ဒီကီးဘုတ်လက်ကွက် ရွေးတာကိုလည်း နည်းနှစ်နည်းနဲ့ ရွေးနိုင်ပါတယ်။ ပထမနည်းက X Windows Desktop ရဲ့ ညာဘက် ထိပ်ဆုံးထောင့်မှာရှိတဲ့ "Text input method icon" ကနေ "Burmese" ဆိုတာကို ရွေးတဲ့နည်းပါ။ ဒုတိယနည်းကတော့ သတ်မှတ်ထားတဲ့ shortcut key နဲ့ ကိုယ်ရိုက်ချင်တဲ့ ကီးဘုတ်လက်ကွက်ကို ရွေးချယ်တဲ့နည်းပါ။ ပုံမှန်အားဖြင့်က "Super" ကီးနဲ့ "Space Bar" ကိုတွဲနှိပ်ပြီး ပြောင်းလို့ရပါတယ်။ ဒီနေရာမှာ "Super" ကီးဆိုတာက ပုံမှန် PC ကီးဘုတ်မှာဆိုရင် ဘယ်ဘက်အောက်ဆုံးမှာ ရှိတဲ့၊ <kbd> Ctrl </kbd> ကီးနဲ့ <kbd> Alt </kbd> ကီးနှစ်ခုကြားက Windows OS Logo နဲ့ ပြထားတဲ့ Windows key ကီးကို ဆိုလိုတာပါ။ Apple ကွန်ပြူတာကီးဘုတ်မှာဆိုရင်တော့ <kbd> ⌘ Command </kbd> ကီး ဖြစ်ပါတယ်။
- 
- အAfter you added "Burmese" keyboard layout, you can change your current input method or keyboard layout to "Burmese" by clicking text input method icon (top right corner of X Windows Desktop) as shown in the following figure or pressing "Super+Space Bar" (you might need to press 2/3 times, it is depends on how many text input method are you using on your X Windows).  
+ 5. အထက်ပါဖော်ပြခဲ့တဲ့ အဆင့်နံပါတ်(၁) ကနေ အဆင့်နံပါတ်(၄) အထိ အခက်အခဲမရှိ လုပ်ဆောင်ပြီးပြီဆိုပါက၊ နောက်ဆုံးအဆင့်အနေနဲ့ ကိုယ်ရိုက်မဲ့ ကီးဘုတ်လက်ကွက်ကို ရွေးတဲ့ အဆင့်ပဲလုပ်ဆောင်ဖို့ ကျန်ပါတော့တယ်။ ဒီကီးဘုတ်လက်ကွက် ရွေးတာကိုလည်း နည်းနှစ်နည်းနဲ့ ရွေးနိုင်ပါတယ်။ ပထမနည်းက X Windows Desktop ရဲ့ ညာဘက် ထိပ်ဆုံးထောင့်မှာရှိတဲ့ "Text input method icon" (အောက်ပါ ပုံမှာ ပြထားသည့်အတိုင်း) ကနေ "Burmese" ဆိုတာကို ရွေးတဲ့နည်းပါ။ ဒုတိယနည်းကတော့ သတ်မှတ်ထားတဲ့ shortcut key နဲ့ ကိုယ်ရိုက်ချင်တဲ့ ကီးဘုတ်လက်ကွက်ကို ရွေးချယ်တဲ့နည်းပါ။ ပုံမှန်အားဖြင့်က "Super" ကီးနဲ့ "Space Bar" ကိုတွဲနှိပ်ပြီး ပြောင်းလို့ရပါတယ်။ ဒီနေရာမှာ "Super" ကီးဆိုတာက ပုံမှန် PC ကီးဘုတ်မှာဆိုရင် ဘယ်ဘက်အောက်ဆုံးမှာ ရှိတဲ့၊ <kbd> Ctrl </kbd> ကီးနဲ့ <kbd> Alt </kbd> ကီးနှစ်ခုကြားက Windows OS Logo နဲ့ ပြထားတဲ့ Windows key ကီးကို ဆိုလိုတာပါ။ Apple ကွန်ပြူတာကီးဘုတ်မှာဆိုရင်တော့ <kbd> ⌘ Command </kbd> ကီး ဖြစ်ပါတယ်။ ကိုယ်ရဲ့ ကွန်ပြူတာမှာ လက်ရှိအသုံးပြုနေသော ကီးဘုတ် အရေအတွက် ပေါ်မူတည်ပြီး၊ ကိုယ်အသုံးပြုချင်သော ကီးဘုတ်လက်ကွက်ဆီကို ရောက်ရှိရန် "Super key" + "Space bar" ကို ၁ခါထက်ပိုပြီး နှိပ်ရကောင်း နှိပ်ရနိုင်ပါတယ်။
  
  ![text-input-method-icon](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/text-input-method-icon.png)  
  
- In the above figure, Ja is indicating that current keyboard layout is using "Japanese".  
+ အထက်ပါပုံမှာ မြင်ရတဲ့ "Ja" ဆိုတာက လက်ရှိ အသုံးပြုနေတဲ့ ကီးဘုတ်လက်ကွက်က ဂျပန်ကီးဘုတ်လက်ကွက်ဖြစ်ကြောင်းကို ဖော်ပြနေတာပါ။ 
  
- *If you want to switch back to Ubuntu default Myanmar keyboard layout, change filename mm.default to mm.*
-
-
-
- 1. kkg ဖိုင်ကို ...
- 2. /bla/bla/bla
- 3. [3 character country code](http://www.loc.gov/standards/iso639-2/php/English_list.php)
- 4. 
- 5. 
+ *Ubuntu ကို installation လုပ်ခဲ့စဉ်ကတည်းက ပါလာတဲ့ မြန်မာစာကီးဘုတ်လက်ကွက်ကို ပြန်ပြောင်းချင်တယ် ဆိုရင် ပြောင်းသိမ်းခဲ့တဲ့ mm.default ဖိုင်ကို mm ဆိုတဲ့ နာမည်ကို ပြန်ပြောင်းပေးလိုက်ယုံပါပဲ။ ဖိုင်နာမည်ပြောင်းတဲ့ mv command ကို သုံးဖို့အတွက် sudo နဲ့ တွဲသုံးရပါလိမ့်မယ်။*  
 
 Installation လုပ်နည်းအမှတ်(၂)
 kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ်လက်ကွက်အသစ်တခုအနေနဲ့ ထည့်ချင်တယ် ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။
