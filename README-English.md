@@ -190,7 +190,7 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
      တက္ကသိုလ်၊ မိတ္တီလာ၊ ပုပ္ပါး၊ သမ္မတ၊ ပြဿနာ၊ ပစ္စည်းများ။
      ```
    
- 7. Finally start typing some Myanmar sentences that comes into your mind. I am sure, you will make some typing mistakes but keep practise. Eventually you’ll find out that you are typing Myanmar sentences quickly and easily.  
+ 7. Finally, start typing some Myanmar sentences that comes into your mind. I am sure, you will make some typing mistakes but keep practise. Eventually you’ll find out that you are typing Myanmar sentences quickly and easily.  
 Enjoy, kKg keyboard!  
 
 # To-Do list
