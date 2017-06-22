@@ -192,7 +192,7 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
      ```
    
  7. Finally, start typing some Myanmar sentences that comes into your mind. You might still make some typing mistakes but keep practise. Eventually you’ll find out that you are typing Myanmar sentences quickly and easily.  
-  [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/video-pic.png)(https://youtu.be/qqNIumkvpYM)]   
+  [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/video-pic.png)](https://youtu.be/qqNIumkvpYM)   
   
   Enjoy, kKg keyboard!  
 
