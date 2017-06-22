@@ -203,7 +203,7 @@ kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ�
      
      လေ့ကျင့်ပုံ လေ့ကျင့်နည်း နမူနာကို ဗီဒီယိုအနေနဲ့လဲ တင်ပေးထားပါတယ်။  
      
-     [![video-4-1st-time-users](https://youtu.be/qqNIumkvpYM)]  
+     [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/video-pic.png)](https://youtu.be/qqNIumkvpYM)]  
      
      Enjoy! kKg keyboard!
   
