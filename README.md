@@ -279,7 +279,7 @@ __(အထက်ပါဖို(လ်)ဒါက ဖိုင်တွေကိ�
      
    * showkey ဆိုတဲ့ command နဲ့ လဲ ကီးဘုတ် ကီးတွေရဲ့ ascii-code, scan-codes, key-codes ကိုကြည့်လို့ရပါတယ်။ -s (--scancodes) option နဲ့ -k (--keycodes) option တွေက ပုံမှန် terminal မှာ အလုပ်မလုပ်ပါဘူး။ virtual consoal (e.g. tty1, tty2) တွေမှာမှ အလုပ်လုပ်ပါလိမ့်မယ်။  
    
-   ပြောရမယ်ဆိုရင်တော့ showkey က ဟိုးအရင်ကတည်းက သုံးခဲ့ကြတဲ့ command ဖြစ်ပုံရပါတယ်။ စမ်းကြည့်ချင်လို့ virtual consola 1 ကို သွားမယ် ဆိုရင် Ctrl+Alt+F1 ကို နှိပ်ပါ။ ပုံမှန်က virtual console (virtual terminal လို့လဲခေါ်) ၆ခု အထိ (F1 .. F6) အထိသုံးလို့ရတယ်။ virtual console က graphical environemnt မလိုပဲသုံးချင်တဲ့ အခါ၊ တချို့ system level အတွက် အလုပ်လုပ်တဲ့ အခါမှာသုံးတယ်။ အဲဒါကြောင့် သူက ကျွန်တော်တို့ ပုံမှန်သုံးနေကြတဲ့ X Windows အထဲကနေ ခေါ် run တဲ့ terminal နဲ့ မတူဘူး။ အောက်ကပုံမှာ ကျွန်တော်ရဲ့စက် virtual console တစ်ခုမှာ showkey နဲ့ scancodes တွေကို ဖတ်ကြည့်တာကို ဥပမာအနေနဲ့ မြင်ရပါလိမ့်မယ်။  
+   ပြောရမယ်ဆိုရင်တော့ showkey က ဟိုးအရင်ကတည်းက သုံးခဲ့ကြတဲ့ command ဖြစ်ပုံရပါတယ်။ စမ်းကြည့်ချင်လို့ virtual console 1 ကို သွားမယ် ဆိုရင် Ctrl+Alt+F1 ကို နှိပ်ပါ။ ပုံမှန်က virtual console (virtual terminal လို့လဲခေါ်) ၆ခု အထိ (F1 .. F6) အထိသုံးလို့ရတယ်။ virtual console က graphical environemnt မလိုပဲသုံးချင်တဲ့ အခါ၊ တချို့ system level အတွက် အလုပ်လုပ်တဲ့ အခါမှာသုံးတယ်။ အဲဒါကြောင့် သူက ကျွန်တော်တို့ ပုံမှန်သုံးနေကြတဲ့ X Windows အထဲကနေ ခေါ် run တဲ့ terminal နဲ့ မတူဘူး။ အောက်ကပုံမှာ ကျွန်တော်ရဲ့စက် virtual console တစ်ခုမှာ showkey နဲ့ scancodes တွေကို ဖတ်ကြည့်တာကို ဥပမာအနေနဲ့ မြင်ရပါလိမ့်မယ်။  
    
    
    ![testing-showkey-scancodes-option-at-tty1](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/showkey-usage-at-tty.png)
