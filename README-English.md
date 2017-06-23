@@ -109,7 +109,7 @@ If you plan to replace default Myanmar keyboard layout with kKg, do the followin
  
  ### Uninstallation for Installation Method (1)
  
- If you want to switch back to Ubuntu default Myanmar keyboard layout, change filename "mm.default" under the path "/usr/share/X11/xkb/symbols/" to "mm".  
+ If you want to switch back to Ubuntu default Myanmar keyboard layout, change filename "mm.default" under the path /usr/share/X11/xkb/symbols/ to "mm".  
 
 * Note: Your future upgrade relating to xkb package will return back to default mm keyboard.  
 
