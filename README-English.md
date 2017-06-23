@@ -107,7 +107,11 @@ If you plan to replace default Myanmar keyboard layout with kKg, do the followin
  
  In the above figure, Ja is indicating that current keyboard layout is using "Japanese".  
  
- *If you want to switch back to Ubuntu default Myanmar keyboard layout, change filename mm.default to mm.*
+ ### Uninstallation for Installation Method (1)
+ 
+ If you want to switch back to Ubuntu default Myanmar keyboard layout, change filename mm.default to mm.  
+
+* Note: Your future upgrade relating to xkb package will return back to default mm keyboard.  
 
 ### Installation Method (2)  
 If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
