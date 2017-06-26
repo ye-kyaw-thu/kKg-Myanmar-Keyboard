@@ -5,7 +5,7 @@
 kKg Myanmar (Unicode) Keyboard Layout that I designed for lazy users (actually, I was the 1st user :).  
 I do hope it will be useful for non Myanmar native users who are studying Myanmar (Burmese) language.  
 
-# Introduction to kKg Keyboard Layout
+# Introduction to kKg (ကခဂ) Keyboard Layout
 
 Although I love Myanmar characters, I was so lazy for practising Myanmar text typing with existing Myanmar keyboard layouts. Actually, most of the Myanmar keyboard layouts are based on old Myanmar typewriter layout and they have similar key mappings. In 2004, I have to type Myanmar text for my master thesis research relating to __Myanmar text typing on mobile phone__. I hope you can guess the situation ... He Hee.. :) And thus, I did self-study on changing keyboard layout on Linux OS with XKB and this is the history of my "kKg Keyboard Layout". 
 
