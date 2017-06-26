@@ -239,6 +239,12 @@ __(အထက်ပါဖို(လ်)ဒါက ဖိုင်တွေကိ�
   
   ![setxkbmap-kkg-verbose-command](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/setxkbmap-kkg-verbose-command.png)
 
+* setxkbmap ရဲ့ option တွေဖြစ်ကြတဲ့ -rules, -model, -layout, -variant တွေကို အားလုံးပေါင်းပြီး တခါတည်းလည်း ပြောင်းလို့ရပါတယ်။ ဥပမာ ကိုယ်ရဲ့ US keyboard 105 keys ကီးဘုတ်မှာ ပြင်သစ်စာလုံး၊ ဂျာမန်စာလုံး၊ စပိန်စာလုံး တွေကိုပါရိုက်ချင်တယ်ဆိုရင်၊ us layout (လက်ကွက်) altgr-intl variant (အမျိုးကွဲ တစ်ခု) အဖြစ် အောက်ပါအတိုင်း ပြောင်းလို့ရပါတယ်။  
+  
+  setxkbmap -rules evdev -model evdev -layout us -variant altgr-intl  
+  (သို့)  
+  setxkbmap -model pc105 -layout us -variant altgr-intl  
+  
 * setxkbmap ရဲ့ command option တွေကို ပိုသိချင်ရင်၊ အောက်ပါ command ကိုရိုက်ပြီး User manual ကိုဖတ်ကြည့်ပါ။  
   $ man setxkbmap
   
