@@ -359,7 +359,7 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
 
 # မှီငြမ်း (Reference)
 
-ကျွန်တော် က kKgကီးဘုတ်ကို ဒီဇိုင်းလုပ်စဉ်မှာ အဓိက မှီငြမ်းခဲ့တာကတော့ Linux OS မှာပါတဲ့ XKB configuration command တခုချင်းစီရဲ့ man page တွေနဲ့ An Unreliable Guide to XKB Configuration ပါ။ တခြားလင့်(ခ်)တွေကတော့ ဒီGitHub မှာkKgကို မတင်ခင်မှာ မြန်မာလိုရှင်းပြဖို့အတွက် အင်တာနက်မှာ ရှာဖွေကြည့်ရင်းနဲ့ ကျွန်တော့်လိုပဲ ကိုယ်တိုင် ကီးဘုတ်အသစ် လုပ်ကြည့်ချင်တဲ့ လူပျင်းများအတွက် အသုံးဝင်မယ်လို့ထင်တဲ့ လင့်(ခ်)တွေပါ။  
+ကျွန်တော် က kKgကီးဘုတ်ကို ဒီဇိုင်းလုပ်စဉ်မှာ အဓိက မှီငြမ်းခဲ့တာကတော့ Linux OS မှာပါတဲ့ XKB configuration command တခုချင်းစီရဲ့ man page တွေနဲ့ An Unreliable Guide to XKB Configuration ပါ။ တခြားလင့်(ခ်)တွေကတော့ ဒီGitHub မှာkKgကို မတင်ခင်မှာ မြန်မာလိုရှင်းပြဖို့အတွက် အင်တာနက်မှာ ရှာဖွေကြည့်ရင်းနဲ့ ကျွန်တော့်လိုပဲ ကိုယ်တိုင် ကီးဘုတ်အသစ် လုပ်ကြည့်ချင်တဲ့ လူပျင်းများအတွက် အသုံးဝင်မယ်လို့ယူဆတဲ့ လင့်(ခ်)တွေပါ။  
 
 1. [XKB Homepage: https://www.x.org/wiki/XKB/](https://www.x.org/wiki/XKB/)
 2. [An Unreliable Guide to XKB Configuration: https://www.charvolant.org/doug/xkb/html/xkb.html](https://www.charvolant.org/doug/xkb/html/xkb.html)  
@@ -371,4 +371,5 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
 8. [The X Keyboard Extension: Protocol Specification: https://www.x.org/docs/XKB/XKBproto.pdf](https://www.x.org/docs/XKB/XKBproto.pdf)
 9. [Extending the X Keyboard Map with XKB: http://madduck.net/docs/extending-xkb/](http://madduck.net/docs/extending-xkb/)
 10. [evdev protocol: https://who-t.blogspot.jp/2016/09/understanding-evdev.html](https://who-t.blogspot.jp/2016/09/understanding-evdev.html)
+11. [Keyboard Input-Output: https://unix.stackexchange.com/questions/116629/how-do-keyboard-input-and-text-output-work](https://unix.stackexchange.com/questions/116629/how-do-keyboard-input-and-text-output-work)
 
