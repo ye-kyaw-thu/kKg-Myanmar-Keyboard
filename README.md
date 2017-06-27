@@ -258,7 +258,9 @@ __(အထက်ပါဖို(လ်)ဒါက ဖိုင်တွေကိ�
  * xkbcomp နဲ့ kkg ကီးဘုတ်ရဲ့ key mapping အသေးစိတ်ကို ဖိုင်အနေနဲ့ print လုပ်ကြည့်လို့ရပါတယ်။  
   $ xkbcomp -xkb $DISPLAY xkbmap-kkg  
   
-   ([xkbmap-kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xkbmap-kkg) ဖိုင်ကိုလဲ တင်ပေးထားပါတယ်)
+   ([xkbmap-kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/xkbmap-kkg) ဖိုင်ကိုလဲ တင်ပေးထားပါတယ်)  
+   
+ * Linux OS မှာ input device (ဥပမာ ကီးဘုတ်) တစ်ခုကနေ application အထိ ဘယ်လို အဆင့်ဆင့် input handling လုပ်သလဲဆိုတော့ အရင်ဆုံး hardware ကနေ scancode အနေနဲ့ kernel ဆီကိုပို့ပါတယ်။ kernel ကနေ keycode အနေနဲ့ X11 ဆီကိုပို့ပါတယ်။ X11 ကနေမှ keysym အနေနဲ့ userသုံးတဲ့ application ဆီကိုပို့ပါတယ်။  
    
   * xset command ကို သုံးပြီး typematic delay အချိန်နဲ့ rate ကိုပြောင်းကြည့်လို့ရပါတယ်။ အတိုရှင်းပြရရင်၊ ကီးတခုကို ဆက်တိုက်ဖိထားတဲ့ အချိန်မှာ အဲဒီဖိထားတဲ့ကီးမှာ mapping လုပ်ထားတဲ့ စာလုံးကို ဘယ်လောက် frequencyနှုန်း (Hzနဲ့တိုင်းတယ်) မြန်မြန်နဲ့ စကရင်မှာ ရိုက်ထုတ်ပြမလဲဆိုတာကို ချိန်တာပါ။  
   $ xset r rate 220 160
