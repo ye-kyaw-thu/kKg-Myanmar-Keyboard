@@ -222,3 +222,5 @@ When I developed kKg keyboard I mainly referred man pages of XKB configuration c
 8. [The X Keyboard Extension: Protocol Specification: https://www.x.org/docs/XKB/XKBproto.pdf](https://www.x.org/docs/XKB/XKBproto.pdf)
 9. [Extending the X Keyboard Map with XKB: http://madduck.net/docs/extending-xkb/](http://madduck.net/docs/extending-xkb/)
 10. [evdev protocol: https://who-t.blogspot.jp/2016/09/understanding-evdev.html](https://who-t.blogspot.jp/2016/09/understanding-evdev.html)
+11. [Keyboard Input-Output: https://unix.stackexchange.com/questions/116629/how-do-keyboard-input-and-text-output-work](https://unix.stackexchange.com/questions/116629/how-do-keyboard-input-and-text-output-work)
+
