@@ -126,13 +126,29 @@ kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ�
 
  1. ပထမဆုံး xkb/symbols ဖိုလ်ဒါ ရှိတဲ့ နေရာကို ရွှေ့ရအောင်  
    cd /usr/share/X11/xkb/symbols/  
- 2. GitHub ကနေ ကိုယ်ဒေါင်းလုပ်လုပ်ထားတဲ့ path အောက်မှာရှိတဲ့ [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) ဖိုင်ကို /usr/share/X11/xkb/symbols/ ဖိုလ်ဒါအောက်မှာ mm ဆိုတဲ့ နာမည်နဲ့ သိမ်းပါ။  
-    sudo cp ~/your-download-path/kkg ./   
+ 2. GitHub ကနေ ကိုယ်ဒေါင်းလုပ်လုပ်ထားတဲ့ path အောက်မှာရှိတဲ့ [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) ဖိုင်ကို /usr/share/X11/xkb/symbols/ ဖိုလ်ဒါအောက်ကို ကော်ပီကူးပါ။  
+    sudo cp ~/your-download-path/kkg ./kkg   
  (ဖိုင်နာမည်က k နှစ်လုံးစလုံးအသေးပါ။)  
  3. /usr/share/X11/xkb/rules/ ဖိုလ်ဒါ ရှိတဲ့ နေရာကို ရွှေ့ပါ။  
     cd /usr/share/X11/xkb/rules  
- 4. text editor (e.g. vi, emacs, gedit) တစ်ခုခုနဲ့ evdev.xml ဖိုင်ကို ဖွင့်ပါ။  
+ 4. text editor တစ်ခုခုနဲ့ (e.g. vi, emacs, gedit, sudoedit, nano ...) evdev.xml ဖိုင်ကို ဖွင့်ပါ။  
     sudo gedit evdev.xml  
+    ဖွင့်ပြီးရင် အောက်ပါ အတိုင်း xml content အသစ်တစ်ခု ဝင်ရေးပါ။ ကောင်းတာကတော့ ရှိပြီးသားကို ကော်ပီကူးပြီး ပြင်တာမျိုးပါ။
+    
+```xml
+    <layout> 
+      <configItem>
+        <name>kkg</name>
+        
+        <shortDescription>kkg</shortDescription>
+        <description>kKg (Myanmar)</description>
+        <languageList>
+          <iso639Id>mya</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList/>
+    </layout> 
+```
  5. 
 
 kKg လက်ကွက်ကို လက်ရှိ ရှိပြီးသား default မြန်မာစာ ကီးဘုတ်လက်ကွက်နေရာမှာ အစားထိုးမယ်ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။ ဒီ installation နည်းနဲ့ လုပ်လျှင်၊ Text Entry Settings ကနေ ကီးဘုတ်ကို ရွေးတဲ့အခါ Burmese ဆိုတဲ့ Ubuntu OS ရဲ့ default name အနေနဲ့မြင်ရပါလိမ့်မယ်။
