@@ -178,7 +178,7 @@ xkg/symbols/အောက်မှာရှိတဲ့ဖိုင်နာမ�
 
 ![selecting-kkg-eg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/selecting-kkg-eg.jpg)
 
-မှတ်ချက်။ ။ ကီးဘုတ်အသစ်အနေနဲ့ ထည့်တဲ့ အခါမှာ Ubuntu OS ရဲ့ distribution (သို့) ဗားရှင်းတွေအပေါ်ကို　မူတည်ပြီး evdev.lst နဲ့ evdev.xml ဖိုင်နှစ်ဖိုင်ကို ဝင်ပြင်တာနဲ့ အဆင်မပြေရင် /usr/share/X11/xkb/rules/ အောက်မှာရှိတဲ့ base.lst, base.xml, xfree86.lst, xfree86.xml တွေကိုလည်း အထက်ပါအတိုင်း ဝင်ပြင်ပါ။ ဖိုင်တွေရဲ့ format တွေက အထက်မှာရှင်းပြခဲ့တဲ့ ဖိုင်နှစ်ဖိုင်ရဲ့ format နဲ့ အတူတူပါပဲ။ Ubuntu OS 14.04 LTS မှာ ဆိုရင် ဖိုင်တွေကို　ဝင်ပြင်တာနဲ့　X windows မှာ text input method အနေနဲ့ ရွေးလို့ရပေမဲ့၊ တကယ်တမ်းက စာရိုက်တဲ့ အခါမှာ ကီးဘုတ်ကို ပြောင်းမပေးနိုင်သေးပါဘူး။ Reboot လုပ်မှ တကယ် active ဖြစ်ပြီး သုံးလို့ရပါတယ်။  
+မှတ်ချက်။ ။ ကီးဘုတ်အသစ်အနေနဲ့ ထည့်တဲ့ အခါမှာ Ubuntu OS ရဲ့ distribution (သို့) ဗားရှင်းတွေအပေါ်ကို မူတည်ပြီး evdev.lst နဲ့ evdev.xml ဖိုင်နှစ်ဖိုင်ကို ဝင်ပြင်တာနဲ့ အဆင်မပြေရင် /usr/share/X11/xkb/rules/ အောက်မှာရှိတဲ့ base.lst, base.xml, xfree86.lst, xfree86.xml တွေကိုလည်း အထက်ပါအတိုင်း ဝင်ပြင်ပါ။ ဖိုင်တွေရဲ့ format တွေက အထက်မှာရှင်းပြခဲ့တဲ့ ဖိုင်နှစ်ဖိုင်ရဲ့ format နဲ့ အတူတူပါပဲ။ Ubuntu OS 14.04 LTS မှာ ဆိုရင် ဖိုင်တွေကို ဝင်ပြင်တာနဲ့　X windows မှာ text input method အနေနဲ့ ရွေးလို့ရပေမဲ့၊ တကယ်တမ်းက စာရိုက်တဲ့ အခါမှာ ကီးဘုတ်ကို ပြောင်းမပေးနိုင်သေးပါဘူး။ Reboot လုပ်မှ တကယ် active ဖြစ်ပြီး သုံးလို့ရပါတယ်။  
 
 ### Installation လုပ်နည်းအမှတ်(၂) အတွက် Uninstall လုပ်နည်း
  
