@@ -146,10 +146,10 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
     </layout> 
     ```
  4. Open evdev.lst file and add following item:
-  
-```
- kkg             kKg (Myanmar)
-```
+ 
+ ```
+  kkg             kKg (Myanmar)
+ ```
 
 Adding above line according to the alphabetical order is better:
 
