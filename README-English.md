@@ -120,7 +120,7 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
  ```
     cd /usr/share/X11/xkb/symbols/
  ```
- 2. Copy kkg symbols file to current path:
+ 2. Copy [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) symbols file to current path:
  ```
     sudo cp ~/your-download-path/kkg ./kkg
  ```
