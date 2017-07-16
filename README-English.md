@@ -162,11 +162,11 @@ Adding above line according to the alphabetical order is better for searching (s
 
 ![text-entry-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/Text-Entry-Dbox.jpg) 
 
-6. Click the "+" button under the list of installed keyboard layouts
+6. Click the "+" button under the list of installed keyboard layouts and then select "kkg (Myanmar)" as shown in following figure:
 
 ![choose-an-kkg-input-Source](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/ChooseAnInputSource.jpg)
 
-7. 
+7. To test "kKg (Myanmar)" keyboard layout is working or not, look at the keyboard layout icon, in the upper-right corner of your screen, and then switch your current keyboard layout to "kKg (Myanmar)" (see following figure).
 
 ![selecting-kkg-eg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/selecting-kkg-eg.jpg)
 
