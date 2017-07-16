@@ -61,7 +61,7 @@ Based on above concepts, the following is the kKg keyboard mapping according to 
    | း<br>**;** |
    
 
-I think now you can guess the name of kKg is representing frst three Myanmar consonants "က", "ခ" and "ဂ". Although, I don't think my keyboard mapping kKg is the best for Myanmar text typing, it is really useful for me. I am using it and I hope it will be useful for someone who don't want to practise current Myanmar keyboard layouts. Especially for non native Myanmar who just want to type some Myanmar words for his/her works. Current kKg keyboard layout (version 1.0) is as follow:  
+I think now you can guess the name of kKg is representing first three Myanmar consonants "က", "ခ" and "ဂ". Although I don't think my keyboard mapping kKg is the best for Myanmar text typing, it is really useful for me. I am using it and I hope it will be useful for someone who doesn't want to practice current Myanmar keyboard layouts. Especially for non-native Myanmar who just want to type some Myanmar words for his/her works. Current kKg keyboard layout (version 1.0) is as follow:  
 
 ![kKg Keyboard Layout Version.1](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kKg-Keyboard-Layout-Ver1.png)
 
