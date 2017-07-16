@@ -173,7 +173,7 @@ You can also switch keyboard layout by pressing "Super Key" + "Space Bar". Here,
 
 Note: Depends on your Ubuntu OS distributions, sometimes you also have to update base.lst, base.xml, xfree86.lst, xfree86.xml as I mentioned in step 3 and 4. One more information is that I have to reboot for activating a new keyboard layout on Ubuntu OS 14.04 LTS computer.  
 
-### Uninstallation for Installation Method No.(1)  
+### Uninstallation for Installation Method No.(2)  
 
 Just remove the text (XML content and one sentence) in the files that you added such as evdev.xml and evdev.lst.
 If you updated base.xml, base.lst, xfree86.xml, xfree86.lst, remove in that files also.
