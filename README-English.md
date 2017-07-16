@@ -210,7 +210,7 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
     မ မာ မိ မီ မု မူ မေ မဲ မော့ မော် မံ မား
     အ အာ အိ အီ အု အူ အေ အဲ အော့ အော် အံ အား
     ```
-4. Practising " ျ ", " ြ ", " ွ ", " ှ " and some Myanmar words  
+4. Practicing " ျ ", " ြ ", " ွ ", " ှ " and some Myanmar words  
   
     ```
     ကွ ပွ မွ လွ
@@ -225,7 +225,7 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
     မသိ တယောက် နှစ်ယောက် သုံးလေးယောက်
     ```
    
- 5. Practising short Myanmar sentences together with two Myanmar symbols  "၊" (sign little section) and "။" (sign section).  
+ 5. Practicing short Myanmar sentences together with two Myanmar symbols  "၊" (sign little section) and "။" (sign section).  
    
      ```
      မမ ဝဝ ထထ က
@@ -247,7 +247,7 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
      တက္ကသိုလ်၊ မိတ္တီလာ၊ ပုပ္ပါး၊ သမ္မတ၊ ပြဿနာ၊ ပစ္စည်းများ။
      ```
    
- 7. Finally, start typing some Myanmar sentences that comes into your mind. You might still make some typing mistakes but keep practise. Eventually you’ll find out that you are typing Myanmar sentences quickly and easily.  
+ 7. Finally, start typing some Myanmar sentences that come into your mind. You might still make some typing mistakes but keep practice. Eventually, you’ll find out that you are typing Myanmar sentences quickly and easily.  
  
    I also uploaded demo video of how to practice kKg keyboard layout:  
    
@@ -262,7 +262,7 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
 
 # References
 
-When I developed kKg keyboard I mainly referred man pages of XKB configuration commands and "An Unreliable Guide to XKB Configuration". I also found that there are some good references when I made revision for explanation of how I used XKB in Myanmar language and some of them are as follows:   
+When I developed kKg keyboard I mainly referred man pages of XKB configuration commands and "An Unreliable Guide to XKB Configuration". I also found that there are some good references when I made a revision for the explanation of how I used XKB in Myanmar language and some of them are as follows:   
 
 1. [XKB Homepage: https://www.x.org/wiki/XKB/](https://www.x.org/wiki/XKB/)
 2. [An Unreliable Guide to XKB Configuration: https://www.charvolant.org/doug/xkb/html/xkb.html](https://www.charvolant.org/doug/xkb/html/xkb.html)  
