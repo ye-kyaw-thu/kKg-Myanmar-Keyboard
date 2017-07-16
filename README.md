@@ -165,7 +165,8 @@ xkg/symbols/အောက်မှာရှိတဲ့ဖိုင်နာမ�
 
 ![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/adding-kkg-evdev.lst.png)  
 
-5. အထက်ပါ ဖိုင်နှစ်ဖိုင်ကို မှန်မှန်ကန်ကန် ပြင်ပြီးသွားရင် GUI မှာ ကီးဘုတ်ကိုရွေးတဲ့ icon ကနေတဆင့် Text Entry Settings ကိုရွေးရင်　အောင်ပါအတိုင်း Text Entry ဒိုင်ယာလောခ့် ဘောက်စ် ကို မြင်ရပါလိမ့်မယ်။ (Ubuntu OS ရဲ့ System Settings ကနေလည်း Text Entry Settings ကို ဝင်လို့ရပါတယ်။)  
+5. အထက်ပါ ဖိုင်နှစ်ဖိုင်ကို မှန်မှန်ကန်ကန် ပြင်ပြီးသွားရင် GUI မှာ ကီးဘုတ်ကိုရွေးတဲ့ icon ကနေတဆင့် Text Entry Settings ကိုရွေးရင်　အောင်ပါအတိုင်း Text Entry ဒိုင်ယာလောခ့် ဘောက်စ် ကို မြင်ရပါလိမ့်မယ်။  
+(Ubuntu OS ရဲ့ System Settings ကနေလည်း Text Entry Settings ကို ဝင်လို့ရပါတယ်။)  
 
 ![text-entry-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/Text-Entry-Dbox.jpg)  
 
