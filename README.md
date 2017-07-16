@@ -124,15 +124,21 @@ Ubuntu ကို installation လုပ်ခဲ့စဉ်ကတည်းက �
 kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ်လက်ကွက်အသစ်တခုအနေနဲ့ ကိုယ့်ရဲ့ ကွန်ပြူတာမှာထည့်ချင်တယ် ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။ GitHub ကနေ kKg ကီးဘုတ်ကို download လုပ်ပြီးသားအခြေအနေနဲ့ ရှင်းပြပါမယ်။ ကိုယ့်ရဲ့ user account က sudoers list ထဲမှာ ရှိရပါမယ်။ 
 
  1. GitHub ကနေ ကိုယ်ဒေါင်းလုပ်လုပ်ထားတဲ့ path အောက်မှာရှိတဲ့ [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) ဖိုင်ကို /usr/share/X11/xkb/symbols/ ဖိုလ်ဒါအောက်ကို ကော်ပီကူးပါ။  
+ ```
     sudo cp ~/your-download-path/kkg /usr/share/X11/xkb/symbols/kkg   
+ ```
  (ဖိုင်နာမည်က k နှစ်လုံးစလုံးအသေးပါ။)  
  2. /usr/share/X11/xkb/rules/ ဖိုလ်ဒါ ရှိတဲ့ နေရာကို ရွှေ့ပါ။  
-    cd /usr/share/X11/xkb/rules  
+  ```
+  cd /usr/share/X11/xkb/rules  
+  ```
  3. text editor တစ်ခုခုနဲ့ (e.g. vi, emacs, gedit, sudoedit, nano ...) evdev.xml ဖိုင်ကို ဖွင့်ပါ။  
+   ```
     sudo gedit evdev.xml  
-    ဖွင့်ပြီးရင် အောက်ပါ အတိုင်း xml content အသစ်တစ်ခု ကို "! layout " ဆိုတဲ့နေရာမှာ ဝင်ရေးပါ။ ကောင်းတာကတော့ ရှိပြီးသားကို ကော်ပီကူးပြီး ပြင်တာမျိုးပါ။
+   ```
+   ဖွင့်ပြီးရင် အောက်ပါ အတိုင်း xml content အသစ်တစ်ခု ကို "! layout " ဆိုတဲ့နေရာမှာ ဝင်ရေးပါ။ ကောင်းတာကတော့ ရှိပြီးသားကို ကော်ပီကူးပြီး ပြင်တာမျိုးပါ။
     
-```xml
+   ```xml
     <layout> 
       <configItem>
         <name>kkg</name>
@@ -145,14 +151,14 @@ kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ�
       </configItem>
       <variantList/>
     </layout> 
-```
+   ```
 xkg/symbols/အောက်မှာရှိတဲ့ဖိုင်နာမည် kkg က အားလုံးစာလုံးအသေးမို့လို့၊ <name> နဲ့ </name> tag နှစ်ခုကြားမှာ ရိုက်ထည့်တဲ့ နာမည်ကလည်း အားလုံး စာလုံးအသေးဖြစ်ရပါမယ်။  
 <description> tag အတွက်ကတော့ ကိုယ်ပေါ်စေချင်တဲ့ စာကြောင်းကို ရိုက်ထည့်လို့ရပါတယ်။  
  4. text editor တစ်ခုနဲ့ evdev.lst ဖိုင်ကို ဖွင့်ပြီးရင် အောက်ပါစာကြောင်းကို list item တစ်ခုအနေနဲ့ ရိုက်ထည့်ပါ။  
  
-```
- kkg             kKg (Myanmar)
-```
+   ```
+    kkg             kKg (Myanmar)
+   ```
 ဘယ်နေရာမှာ ထည့်ရမလဲဆိုရင်တော့ ရှာရဖွေရလွယ်ကူအောင် k နဲ့စတဲ့ item တွေကြားမှာ ရိုက်ထည့်ထားရင် နောက်ပိုင်း ရှာဖွေတဲ့ အခါမှာ အဆင်ပြေ ပါလိမ့်မယ်။ ဥပမာအနေနဲ့ အောက်ပါပုံကို မှီငြမ်းပါ။  
 
 ![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/adding-kkg-evdev.lst.png)  
