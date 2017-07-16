@@ -115,20 +115,17 @@ If you plan to replace default Myanmar keyboard layout with kKg, do the followin
 
 ### Installation Method (2)  
 If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
+(I assume you already downloaded kKg-Myanmar-Keyboard from this GitHub)
 
- 1. Change to /usr/share/X11/xkb/symbols/:
- ```
-    cd /usr/share/X11/xkb/symbols/
- ```
- 2. Copy [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) symbols file to current path:
+ 1. Copy downloaded [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) symbols file to /usr/share/X11/xkb/symbols/ path:
  ```
     sudo cp ~/your-download-path/kkg ./kkg
  ```
- 3. Change to /usr/share/X11/xkb/rules/:
+ 2. Change to /usr/share/X11/xkb/rules/:
  ```
  cd /usr/share/X11/xkb/rules
  ```
- 4. Open evdev.xml file with an editor such as vi, emacs and gedit:
+ 3. Open evdev.xml file with an editor such as vi, emacs and gedit:
  ```
  sudo gedit evdev.xml
  ```
