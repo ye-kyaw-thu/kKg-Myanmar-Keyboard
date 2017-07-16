@@ -128,6 +128,7 @@ kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ�
     sudo cp ~/your-download-path/kkg /usr/share/X11/xkb/symbols/kkg   
  ```
  (ဖိုင်နာမည်က k နှစ်လုံးစလုံးအသေးပါ။)  
+ 
  2. /usr/share/X11/xkb/rules/ ဖိုလ်ဒါ ရှိတဲ့ နေရာကို ရွှေ့ပါ။  
   ```
   cd /usr/share/X11/xkb/rules  
