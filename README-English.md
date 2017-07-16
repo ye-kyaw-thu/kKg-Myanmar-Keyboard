@@ -261,9 +261,9 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
    Enjoy, kKg keyboard!  
 
 # To-Do list
-* Prepare brief (mainly explanation on kKg keyboard mapping) README file in English version.
 * Preparing kKg keyboard for Windows OS
-* Making user-study in details (although I am busy... I wish to do when I get a chance)
+* Making formal user-study when I get a chance
+* Release kKg signwriting keyboard for Myanmar signers (at PACLING conf 2017, Yangon, Myanmar ?)
 
 # References
 
