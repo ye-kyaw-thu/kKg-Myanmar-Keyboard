@@ -144,7 +144,8 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
       </configItem>
       <variantList/>
     </layout> 
-    ```
+ ```
+ 
  4. Open evdev.lst file and add following item:
  
  ```
