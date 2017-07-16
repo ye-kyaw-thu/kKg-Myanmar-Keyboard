@@ -27,7 +27,7 @@ My idea is mapping Myanmar characters on English QWERTY keyboard based on their 
 Now, finished key mapping for almost all of the Myanmar consonant, right?  
 However, there are 33 Myanmar consonants and 26 keys of English is not enough for mapping all Myanmar consonants. Moreover, some Myanmar consonants have same or similar pronunciation such as တ (ta) and သ (tha), ဒ (da), ဓ (da), ဋ (ta), ဍ (da) and ဎ (da), ထ (hta) and ဌ (hta). And thus, some Myanmar characters are mapped on English keys who pronunciations are totally different with Myanmar such as ည (nya) is mapping on <kbd> q </kbd>, ဋ (ta) is mapping on <kbd> v </kbd>, ဌ is mapping on capital X ( <kbd> Shift </kbd> + <kbd> x </kbd> ), ဍ is mapping on capital v ( <kbd> Shift </kbd> + <kbd> v </kbd> ) and ဦ is mapping on capital m ( <kbd> Shift </kbd> + <kbd> m </kbd> ).
 
-One more concept that I applied is key mapping based on similar shape of characters.  
+One more concept that I applied is key mapping based on the similar shape of characters.  
 For examples:  
 
 Myanmar consonant "င" (Nga) is mapping to English small c, <kbd> c </kbd> key
