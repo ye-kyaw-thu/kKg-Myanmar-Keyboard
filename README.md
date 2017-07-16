@@ -408,9 +408,9 @@ key <AC08> { [   က,   ခ,   k,   K,   NoSymbol,   NoSymbol,   NoSymbol,   NoS
    
   
 # ရည်ရွယ်ထားသော to-do list
-* Prepare brief (mainly explanation on kKg keyboard mapping) README file in English version.
 * Preparing kKg keyboard for Windows OS
-* Making user-study in details (although I am busy... I wish to do when I get a chance)
+* Making formal user-study when I get a chance
+* Release kKg signwriting keyboard for Myanmar signers
 
 # မှီငြမ်း (Reference)
 
