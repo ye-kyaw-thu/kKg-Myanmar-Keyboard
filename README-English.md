@@ -116,8 +116,14 @@ If you plan to replace default Myanmar keyboard layout with kKg, do the followin
 ### Installation Method (2)  
 If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
 
- 1. kkg
- 2. /bla/bla/bla
+ 1. Change to /usr/share/X11/xkb/symbols/:
+ ```
+    cd /usr/share/X11/xkb/symbols/
+ ```
+ 2. Copy kkg symbols file to current path:
+ ```
+    sudo cp ~/your-download-path/kkg ./kkg
+ ```
  3. 
  4. 
  5. 
