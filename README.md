@@ -123,14 +123,12 @@ Ubuntu ကို installation လုပ်ခဲ့စဉ်ကတည်းက �
 ### Installation လုပ်နည်းအမှတ်(၂)  
 kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ်လက်ကွက်အသစ်တခုအနေနဲ့ ကိုယ့်ရဲ့ ကွန်ပြူတာမှာထည့်ချင်တယ် ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။ GitHub ကနေ kKg ကီးဘုတ်ကို download လုပ်ပြီးသားအခြေအနေနဲ့ ရှင်းပြပါမယ်။ ကိုယ့်ရဲ့ user account က sudoers list ထဲမှာ ရှိရပါမယ်။ 
 
- 1. ပထမဆုံး xkb/symbols ဖိုလ်ဒါ ရှိတဲ့ နေရာကို ရွှေ့ရအောင်  
-   cd /usr/share/X11/xkb/symbols/  
- 2. GitHub ကနေ ကိုယ်ဒေါင်းလုပ်လုပ်ထားတဲ့ path အောက်မှာရှိတဲ့ [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) ဖိုင်ကို /usr/share/X11/xkb/symbols/ ဖိုလ်ဒါအောက်ကို ကော်ပီကူးပါ။  
-    sudo cp ~/your-download-path/kkg ./kkg   
+ 1. GitHub ကနေ ကိုယ်ဒေါင်းလုပ်လုပ်ထားတဲ့ path အောက်မှာရှိတဲ့ [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) ဖိုင်ကို /usr/share/X11/xkb/symbols/ ဖိုလ်ဒါအောက်ကို ကော်ပီကူးပါ။  
+    sudo cp ~/your-download-path/kkg /usr/share/X11/xkb/symbols/kkg   
  (ဖိုင်နာမည်က k နှစ်လုံးစလုံးအသေးပါ။)  
- 3. /usr/share/X11/xkb/rules/ ဖိုလ်ဒါ ရှိတဲ့ နေရာကို ရွှေ့ပါ။  
+ 2. /usr/share/X11/xkb/rules/ ဖိုလ်ဒါ ရှိတဲ့ နေရာကို ရွှေ့ပါ။  
     cd /usr/share/X11/xkb/rules  
- 4. text editor တစ်ခုခုနဲ့ (e.g. vi, emacs, gedit, sudoedit, nano ...) evdev.xml ဖိုင်ကို ဖွင့်ပါ။  
+ 3. text editor တစ်ခုခုနဲ့ (e.g. vi, emacs, gedit, sudoedit, nano ...) evdev.xml ဖိုင်ကို ဖွင့်ပါ။  
     sudo gedit evdev.xml  
     ဖွင့်ပြီးရင် အောက်ပါ အတိုင်း xml content အသစ်တစ်ခု ကို "! layout " ဆိုတဲ့နေရာမှာ ဝင်ရေးပါ။ ကောင်းတာကတော့ ရှိပြီးသားကို ကော်ပီကူးပြီး ပြင်တာမျိုးပါ။
     
@@ -150,7 +148,7 @@ kKg  ကီးဘုတ်ကို မြန်မာစာ ကီးဘုတ�
 ```
 xkg/symbols/အောက်မှာရှိတဲ့ဖိုင်နာမည် kkg က အားလုံးစာလုံးအသေးမို့လို့၊ <name> နဲ့ </name> tag နှစ်ခုကြားမှာ ရိုက်ထည့်တဲ့ နာမည်ကလည်း အားလုံး စာလုံးအသေးဖြစ်ရပါမယ်။  
 <description> tag အတွက်ကတော့ ကိုယ်ပေါ်စေချင်တဲ့ စာကြောင်းကို ရိုက်ထည့်လို့ရပါတယ်။  
- 5. text editor တစ်ခုနဲ့ evdev.lst ဖိုင်ကို ဖွင့်ပြီးရင် အောက်ပါစာကြောင်းကို list item တစ်ခုအနေနဲ့ ရိုက်ထည့်ပါ။  
+ 4. text editor တစ်ခုနဲ့ evdev.lst ဖိုင်ကို ဖွင့်ပြီးရင် အောက်ပါစာကြောင်းကို list item တစ်ခုအနေနဲ့ ရိုက်ထည့်ပါ။  
  
 ```
  kkg             kKg (Myanmar)
@@ -159,15 +157,15 @@ xkg/symbols/အောက်မှာရှိတဲ့ဖိုင်နာမ�
 
 ![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/adding-kkg-evdev.lst.png)  
 
-6. အထက်ပါ ဖိုင်နှစ်ဖိုင်ကို မှန်မှန်ကန်ကန် ပြင်ပြီးသွားရင် GUI မှာ ကီးဘုတ်ကိုရွေးတဲ့ icon ကနေတဆင့်　Text Entry Settings ကိုရွေးရင်　အောင်ပါအတိုင်း　Text Entry ဒိုင်ယာလောခ့် ဘောက်စ် ကို မြင်ရပါလိမ့်မယ်။  (Ubuntu OS ရဲ့ System Settings ကနေလည်း Text Entry Settings ကို ဝင်လို့ရပါတယ်။)  
+5. အထက်ပါ ဖိုင်နှစ်ဖိုင်ကို မှန်မှန်ကန်ကန် ပြင်ပြီးသွားရင် GUI မှာ ကီးဘုတ်ကိုရွေးတဲ့ icon ကနေတဆင့်　Text Entry Settings ကိုရွေးရင်　အောင်ပါအတိုင်း　Text Entry ဒိုင်ယာလောခ့် ဘောက်စ် ကို မြင်ရပါလိမ့်မယ်။  (Ubuntu OS ရဲ့ System Settings ကနေလည်း Text Entry Settings ကို ဝင်လို့ရပါတယ်။)  
 
 ![text-entry-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/Text-Entry-Dbox.jpg)  
 
-7. Text Entry ဒိုင်ယာလောခ့် ဘောက်စ်မှာ "+" (plus) ကိုနှိပ်ပြီး ကီးဘုတ်အသစ်ဖြစ်တဲ့ "kkg (Myanmar)" ကိုရွေးပါ။  
+6. Text Entry ဒိုင်ယာလောခ့် ဘောက်စ်မှာ "+" (plus) ကိုနှိပ်ပြီး ကီးဘုတ်အသစ်ဖြစ်တဲ့ "kkg (Myanmar)" ကိုရွေးပါ။  
 
 ![choose-an-kkg-input-Source](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/ChooseAnInputSource.jpg)
 
-8. အထက်ပါဖော်ပြခဲ့တဲ့ အဆင့်နံပါတ်(၁) ကနေ အဆင့်နံပါတ်(၇) အထိ အခက်အခဲမရှိ လုပ်ဆောင်ပြီးပြီဆိုပါက၊ နောက်ဆုံးအဆင့်အနေနဲ့ ကိုယ်ရိုက်မဲ့ ကီးဘုတ်လက်ကွက်ကို ရွေးတဲ့ အဆင့်ပဲလုပ်ဆောင်ဖို့ ကျန်ပါတော့တယ်။ ဒီကီးဘုတ်လက်ကွက် ရွေးတာကိုလည်း နည်းနှစ်နည်းနဲ့ ရွေးနိုင်ပါတယ်။ ပထမနည်းက X Windows Desktop ရဲ့ ညာဘက် ထိပ်ဆုံးထောင့်မှာရှိတဲ့ "Text input method icon" (အောက်ပါ ပုံမှာ ပြထားသည့်အတိုင်း) ကနေ "kkg (Myanmar)" ဆိုတာကို ရွေးတဲ့နည်းပါ။ ဒုတိယနည်းကတော့ သတ်မှတ်ထားတဲ့ shortcut key နဲ့ ကိုယ်ရိုက်ချင်တဲ့ ကီးဘုတ်လက်ကွက်ကို ရွေးချယ်တဲ့နည်းပါ။ ပုံမှန်အားဖြင့်က "Super" ကီးနဲ့ "Space Bar" ကိုတွဲနှိပ်ပြီး ပြောင်းလို့ရပါတယ်။ ဒီနေရာမှာ "Super" ကီးဆိုတာက ပုံမှန် PC ကီးဘုတ်မှာဆိုရင် ဘယ်ဘက်အောက်ဆုံးမှာ ရှိတဲ့၊ <kbd> Ctrl </kbd> ကီးနဲ့ <kbd> Alt </kbd> ကီးနှစ်ခုကြားက Windows OS Logo နဲ့ ပြထားတဲ့ Windows key ကီးကို ဆိုလိုတာပါ။ Apple ကွန်ပြူတာကီးဘုတ်မှာဆိုရင်တော့ <kbd> ⌘ Command </kbd> ကီး ဖြစ်ပါတယ်။ ကိုယ်ရဲ့ ကွန်ပြူတာမှာ လက်ရှိအသုံးပြုနေသော ကီးဘုတ် အရေအတွက် ပေါ်မူတည်ပြီး၊ ကိုယ်အသုံးပြုချင်သော ကီးဘုတ်လက်ကွက်ဆီကို ရောက်ရှိရန် "Super key" + "Space bar" ကို တစ်ခါထက်ပိုပြီး နှိပ်ရကောင်း နှိပ်ရနိုင်ပါတယ်။  
+7. အထက်ပါဖော်ပြခဲ့တဲ့ အဆင့်နံပါတ်(၁) ကနေ အဆင့်နံပါတ်(၇) အထိ အခက်အခဲမရှိ လုပ်ဆောင်ပြီးပြီဆိုပါက၊ နောက်ဆုံးအဆင့်အနေနဲ့ ကိုယ်ရိုက်မဲ့ ကီးဘုတ်လက်ကွက်ကို ရွေးတဲ့ အဆင့်ပဲလုပ်ဆောင်ဖို့ ကျန်ပါတော့တယ်။ ဒီကီးဘုတ်လက်ကွက် ရွေးတာကိုလည်း နည်းနှစ်နည်းနဲ့ ရွေးနိုင်ပါတယ်။ ပထမနည်းက X Windows Desktop ရဲ့ ညာဘက် ထိပ်ဆုံးထောင့်မှာရှိတဲ့ "Text input method icon" (အောက်ပါ ပုံမှာ ပြထားသည့်အတိုင်း) ကနေ "kkg (Myanmar)" ဆိုတာကို ရွေးတဲ့နည်းပါ။ ဒုတိယနည်းကတော့ သတ်မှတ်ထားတဲ့ shortcut key နဲ့ ကိုယ်ရိုက်ချင်တဲ့ ကီးဘုတ်လက်ကွက်ကို ရွေးချယ်တဲ့နည်းပါ။ ပုံမှန်အားဖြင့်က "Super" ကီးနဲ့ "Space Bar" ကိုတွဲနှိပ်ပြီး ပြောင်းလို့ရပါတယ်။ ဒီနေရာမှာ "Super" ကီးဆိုတာက ပုံမှန် PC ကီးဘုတ်မှာဆိုရင် ဘယ်ဘက်အောက်ဆုံးမှာ ရှိတဲ့၊ <kbd> Ctrl </kbd> ကီးနဲ့ <kbd> Alt </kbd> ကီးနှစ်ခုကြားက Windows OS Logo နဲ့ ပြထားတဲ့ Windows key ကီးကို ဆိုလိုတာပါ။ Apple ကွန်ပြူတာကီးဘုတ်မှာဆိုရင်တော့ <kbd> ⌘ Command </kbd> ကီး ဖြစ်ပါတယ်။ ကိုယ်ရဲ့ ကွန်ပြူတာမှာ လက်ရှိအသုံးပြုနေသော ကီးဘုတ် အရေအတွက် ပေါ်မူတည်ပြီး၊ ကိုယ်အသုံးပြုချင်သော ကီးဘုတ်လက်ကွက်ဆီကို ရောက်ရှိရန် "Super key" + "Space bar" ကို တစ်ခါထက်ပိုပြီး နှိပ်ရကောင်း နှိပ်ရနိုင်ပါတယ်။  
 
 ![selecting-kkg-eg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/selecting-kkg-eg.jpg)
 
