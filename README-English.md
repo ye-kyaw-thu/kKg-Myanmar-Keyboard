@@ -124,8 +124,31 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
  ```
     sudo cp ~/your-download-path/kkg ./kkg
  ```
- 3. 
- 4. 
+ 3. Change to /usr/share/X11/xkb/rules/:
+ ```
+ cd /usr/share/X11/xkb/rules
+ ```
+ 4. Open evdev.xml file with an editor such as vi, emacs and gedit:
+ ```
+ sudo gedit evdev.xml
+ ```
+ put following content, save and quit:
+ 
+ ```xml
+ <layout> 
+      <configItem>
+        <name>kkg</name>
+        
+        <shortDescription>kkg</shortDescription>
+        <description>kKg (Myanmar)</description>
+        <languageList>
+          <iso639Id>mya</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList/>
+    </layout> 
+    ```
+    
  5. 
 
 # For First-time Myanmar Text Typing with kKg Keyboard  
