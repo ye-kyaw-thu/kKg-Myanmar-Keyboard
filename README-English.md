@@ -66,7 +66,7 @@ I think now you can guess the name of kKg is representing first three Myanmar co
 ![kKg Keyboard Layout Version.1](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kKg-Keyboard-Layout-Ver1.png)
 
 Typing orders are same with other Myanmar Unicode Keyboard layouts such as Myanmar3 keyboard layout.  
-First you have to type Myanmar consonant and follow by other vowels.  
+First, you have to type Myanmar consonant and follow by other vowels.  
 For example:  
 
 "က" + " ေ " for "ကေ"  
@@ -101,7 +101,7 @@ If you plan to replace default Myanmar keyboard layout with kKg, do the followin
  Or  
  You can also go from "System Setting", "Text Entry" and click "+" for adding/selecting a keyboard layout.  
  
- 5. After you added "Burmese" keyboard layout, you can change your current input method or keyboard layout to "Burmese" by clicking text input method icon (top right corner of X Windows Desktop) as shown in the following figure or pressing "Super+Space Bar" (you might need to press 2/3 times, it is depends on how many text input method are you using on your X Windows). Here "[Super](https://help.ubuntu.com/stable/ubuntu-help/windows-key.html)" Key means "Windows" key or "Command" key in Apple keyboard.   
+ 5. After you added "Burmese" keyboard layout, you can change your current input method or keyboard layout to "Burmese" by clicking text input method icon (top right corner of X Windows Desktop) as shown in the following figure or pressing "Super+Space Bar" (you might need to press 2/3 times, it depends on how many text input method are you using on your X Windows). Here "[Super](https://help.ubuntu.com/stable/ubuntu-help/windows-key.html)" Key means "Windows" key or "Command" key in Apple keyboard.   
  
  ![text-input-method-icon](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/text-input-method-icon.png)  
  
@@ -152,7 +152,7 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
   kkg             kKg (Myanmar)
  ```
 
-Adding above line according to the alphabetical order is better for searching (see following figure):
+Adding above line according to the alphabetical order is better for searching (see the following figure):
 
 ![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/adding-kkg-evdev.lst.png)
 
@@ -162,7 +162,7 @@ Adding above line according to the alphabetical order is better for searching (s
 
 ![text-entry-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/Text-Entry-Dbox.jpg) 
 
-6. Click the "+" button under the list of installed keyboard layouts and then select "kkg (Myanmar)" as shown in following figure:
+6. Click the "+" button under the list of installed keyboard layouts and then select "kkg (Myanmar)" as shown in the following figure:
 
 ![choose-an-kkg-input-Source](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/ChooseAnInputSource.jpg)
 
@@ -175,9 +175,9 @@ You can also switch keyboard layout by pressing "Super Key" + "Space Bar". Here,
 Note: Depends on your Ubuntu OS distributions, sometimes you also have to update base.lst, base.xml, xfree86.lst, xfree86.xml as I mentioned in step 3 and 4. One more information is that I have to reboot for activating a new keyboard layout on Ubuntu OS 14.04 LTS computer.
 
 # For First-time Myanmar Text Typing with kKg Keyboard  
-If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to see keyboard layout and try to catch up the concept of kKg keyboard design. I assumed that you already know the pronunciation of Myanmar consonants and vowels. If you don't know pronunciation of Myanmar characters, refer [Unicode chart](http://www.unicode.org/charts/PDF/U1000.pdf) and [Romanization Table](https://www.loc.gov/catdir/cpso/romanization/burmese.pdf). Generally, you can guess the keys for Myanmar characters based on their pronunciations such as "က" (Ka Gyi) on <kbd> k </kbd> key, "ခ" (Kha Khway) also on <kbd> k </kbd> key  but the point is you have to practise for "unshifted" and "shift" assignments. As a first step, I do suggest you to start practise typing Myanmar consonants according to their alphabetical order (i.e. "က" (Ka) to "အ" (A)). If you want to start typing Myanmar words and sentences quickly, you can skip some Myanmar consonants that rarely used in daily communication such as "ဋ", "ဍ", ဎ and "ဠ".   
+If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to see keyboard layout and try to catch up the concept of kKg keyboard design. I assumed that you already know the pronunciation of Myanmar consonants and vowels. If you don't know the pronunciation of Myanmar characters, refer [Unicode chart](http://www.unicode.org/charts/PDF/U1000.pdf) and [Romanization Table](https://www.loc.gov/catdir/cpso/romanization/burmese.pdf). Generally, you can guess the keys for Myanmar characters based on their pronunciations such as "က" (Ka Gyi) on <kbd> k </kbd> key, "ခ" (Kha Khway) also on <kbd> k </kbd> key  but the point is you have to practise for "unshifted" and "shift" assignments. As a first step, I do suggest you to start practice typing Myanmar consonants according to their alphabetical order (i.e. "က" (Ka) to "အ" (A)). If you want to start typing Myanmar words and sentences quickly, you can skip some Myanmar consonants that rarely used in daily communication such as "ဋ", "ဍ", ဎ and "ဠ".   
 
-  Similarly, you also have to practise for key mappings of Myanmar vowels based on their ponunciation order (i.e. A, AA, I, II, U, UU, E, AI, O, AU, EN, ARR or အ၊ ာ၊ ိ၊ ီ၊ ု၊ ူ၊ ေ၊ ဲ၊ ော့၊ ော်၊ ံ၊ ား). Although I haven't made formal user study, I roughly did a kind of user study on kKg keyboard layout with some of my friends and I found that they can start typing Myanmar words and sentences with appropriate speed after practising around 30 minutes. The following is the procedure of typing practise that I used:
+  Similarly, you also have to practice for key mappings of Myanmar vowels based on their pronunciation order (i.e. A, AA, I, II, U, UU, E, AI, O, AU, EN, ARR or အ၊ ာ၊ ိ၊ ီ၊ ု၊ ူ၊ ေ၊ ဲ၊ ော့၊ ော်၊ ံ၊ ား). Although I haven't made formal user study, I roughly did a kind of user study on kKg keyboard layout with some of my friends and I found that they can start typing Myanmar words and sentences with appropriate speed after practicing around 30 minutes. The following is the procedure of typing practice that I used:
    
 1. Frequently used Myanmar consonants  
 
