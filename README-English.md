@@ -119,7 +119,7 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
 
  1. Copy downloaded [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) symbols file to /usr/share/X11/xkb/symbols/ path:
  ```
-    sudo cp ~/your-download-path/kkg ./kkg
+    sudo cp ~/your-download-path/kkg /usr/share/X11/xkb/symbols/kkg
  ```
  2. Change to /usr/share/X11/xkb/rules/:
  ```
@@ -129,7 +129,7 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
  ```
  sudo gedit evdev.xml
  ```
-  put following content, save and quit:
+  put following XML content, save and quit:
  
  ```xml
  <layout> 
@@ -146,13 +146,13 @@ If you want to add kKg keyboard as a new keyboard layout in your X Windows:
     </layout> 
  ```
  
- 4. Open evdev.lst file and add following item:
+ 4. Open evdev.lst file and add following line:
  
  ```
   kkg             kKg (Myanmar)
  ```
 
-Adding above line according to the alphabetical order is better:
+Adding above line according to the alphabetical order is better for searching (see following figure):
 
 ![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/adding-kkg-evdev.lst.png)
 
