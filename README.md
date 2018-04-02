@@ -263,7 +263,7 @@ xkg/symbols/အောက်မှာရှိတဲ့ဖိုင်နာမ�
      
      လေ့ကျင့်ပုံ လေ့ကျင့်နည်း နမူနာကို ဗီဒီယိုအနေနဲ့လည်း တင်ပေးထားပါတယ်။  
      
-     [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/video-pic.png)](https://youtu.be/qqNIumkvpYM)  
+     [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg-videoscreen.png)](https://youtu.be/qqNIumkvpYM)  
      
      Enjoy! kKg keyboard!
   
