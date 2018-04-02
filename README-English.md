@@ -256,7 +256,7 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
  
    I also uploaded demo video of how to practice kKg keyboard layout:  
    
-  [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/video-pic.png)](https://youtu.be/qqNIumkvpYM)   
+  [![video-4-1st-time-users](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg-videoscreen.png)](https://youtu.be/qqNIumkvpYM)   
   
    Enjoy, kKg keyboard!  
 
