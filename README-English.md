@@ -263,7 +263,7 @@ If you wish to try Myanmar text typing with kKg keyboard, I do suggest you to se
 # To-Do list
 * Preparing kKg keyboard for Windows OS
 * Making formal user-study when I get a chance
-* Release kKg signwriting keyboard for Myanmar signers 
+* Release kKg signwriting keyboard for Myanmar signers (Finished!)
 
 # References
 
